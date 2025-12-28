@@ -30,6 +30,9 @@ raw_docs/
 sec-edgar-filings/
 backup_preimage_cleanup/
 
+# allow datasets README to be tracked
+!datasets/README_DATASETS.md
+
 # Large archives
 *.zip
 *.tar.gz
