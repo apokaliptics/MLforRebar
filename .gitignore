@@ -1,0 +1,48 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+pip-wheel-metadata/
+.venv/
+env/
+venv/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs and reports
+*.log
+*.csv
+
+# Build / packaging
+build/
+dist/
+
+# Large data directories (ignore by default)
+/datasets/
+/sec-edgar-filings/
+/raw_docs/
+/backup_preimage_cleanup/
+
+# Keep small metadata and documentation in datasets
+!datasets/manifest.csv
+!datasets/image_cleanup_report.csv
+!datasets/*.md
+
+# Optional: Git LFS-managed files
+# *.bin filter=lfs diff=lfs merge=lfs -text
+
+# IDE files
+.vscode/
+.idea/
+
+# Other
+.env
+
+# End of file
