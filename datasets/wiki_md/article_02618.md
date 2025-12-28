@@ -1,8 +1,0 @@
----
-title: "House of 1000 Corpses (song)"
-source: "https://en.wikipedia.org/wiki/House_of_1000_Corpses_(song)"
----
-
-# House of 1000 Corpses (song)
-
-"House of 1000 Corpses" is the final track on Rob Zombie's second solo album The Sinister Urge. The song was used in the 2003 horror movie of the same name, which was written and directed by Zombie.

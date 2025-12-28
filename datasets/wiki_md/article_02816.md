@@ -1,9 +1,0 @@
----
-title: "Conus bellocqae"
-source: "https://en.wikipedia.org/wiki/Conus_bellocqae"
----
-
-# Conus bellocqae
-
-Conus bellocqae is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails and their allies.
-Like all species within the genus Conus, these snails are predatory and venomous. They are capable of stinging humans, therefore live ones should be handled carefully or not at all.

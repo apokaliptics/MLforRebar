@@ -1,9 +1,0 @@
----
-title: "Thomas Edwards (Australian politician)"
-source: "https://en.wikipedia.org/wiki/Thomas_Edwards_(Australian_politician)"
----
-
-# Thomas Edwards (Australian politician)
-
-Thomas Tonkin Edwards (5 December 1875 – 27 September 1951) was an Australian politician who represented the South Australian House of Assembly multi-member seat of Barossa from 1930 to 1933. He was elected as a member of the Labor Party, but was expelled from the party in the 1931 Labor split and sat with the splinter Parliamentary Labor Party for the remainder of his term.
-He was a hotelkeeper at Tanunda prior to his election to parliament. He was defeated at the 1933 election, and unsuccessfully attempted to regain his seat later that year in a July by-election for his old seat.

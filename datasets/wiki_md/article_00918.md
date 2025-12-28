@@ -1,8 +1,0 @@
----
-title: "Acetic acid/hydrocortisone"
-source: "https://en.wikipedia.org/wiki/Acetic_acid/hydrocortisone"
----
-
-# Acetic acid/hydrocortisone
-
-Acetic acid/hydrocortisone is a commonly used combination drug to treat infections of the outer ear and ear canal. Branded as Vosol HC and Acetasol HC, it combines the antibacterial and antifungal action of acetic acid with the anti-inflammatory functions of hydrocortisone.

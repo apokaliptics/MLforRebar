@@ -1,9 +1,0 @@
----
-title: "Ellis Tinios"
-source: "https://en.wikipedia.org/wiki/Ellis_Tinios"
----
-
-# Ellis Tinios
-
-Ellis Tinios is a book historian at the University of Leeds.
-Tinios is a specialist in the evolution of the illustrated book in Japan from 1615 to 1912, and the representation of China in Japanese books and prints of the 18th and 19th centuries.

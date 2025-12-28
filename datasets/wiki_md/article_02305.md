@@ -1,9 +1,0 @@
----
-title: "Eupterote undans"
-source: "https://en.wikipedia.org/wiki/Eupterote_undans"
----
-
-# Eupterote undans
-
-Eupterote undans is a moth in the family Eupterotidae. It was described by Francis Walker in 1855. It is found in the Himalayas.
-The wingspan is about 60 mm. The wings are grey brown irrorated (speckled) with dark scales, the forewings with six highly waved lines. The hindwings have three nearly straight indistinct lines and a highly waved submarginal line.

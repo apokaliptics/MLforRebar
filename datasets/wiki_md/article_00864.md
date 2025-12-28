@@ -1,8 +1,0 @@
----
-title: "List of minor planets: 586001–587000"
-source: "https://en.wikipedia.org/wiki/List_of_minor_planets:_586001%E2%80%93587000"
----
-
-# List of minor planets: 586001–587000
-
-
