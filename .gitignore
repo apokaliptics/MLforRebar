@@ -1,3 +1,43 @@
+# Byte-compiled / build files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+.Python
+
+# Jupyter
+.ipynb_checkpoints
+
+# Editor and OS files
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Data and large files
+datasets/
+raw_docs/
+sec-edgar-filings/
+backup_preimage_cleanup/
+
+# Large archives
+*.zip
+*.tar.gz
+*.tgz
+*.gz
+
+# Notebook outputs and runtime files
+outputs/
 # Python artifacts
 __pycache__/
 *.py[cod]
