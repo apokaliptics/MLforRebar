@@ -1,0 +1,22 @@
+---
+title: "Nguyen Minh Kiet - Essay"
+source: "C:/Users/Admin/Downloads/drive-download-20251225T152443Z-3-001/Nguyen Minh Kiet - Essay.docx"
+---
+
+Write an essay of about 350 words on the following topic.
+
+“The ban on cell phones in high schools (like those in Hanoi city) undermines student
+
+autonomy and hinders the development of self-discipline in managing digital habits.”
+
+To what extent do you agree or disagree with this view?
+
+In contemporary society, cell phones have undoubtedly become an integral part of daily life, especially among young people. One contentious idea insists that the prohibition of smartphone usage in high schools, similar to those in Hanoi, the capital city of Vietnam, compromises student independence and impedes the cultivation of self-awareness in the management of digital behaviours. From my perspective, there are sound arguments both for and against the disallowance of mobile phones in upper-intermediate education, and I believe that a balanced approach is required to reap the maximum benefits from this action.
+
+On the one hand, the ban on cell phones in high schools can be a necessary measure to maintain discipline and focus in the learning environment, while also fostering social interactions between other students. To commence with, it is indubitable that there has been an increase in the reliance on smartphones among young people. To elucidate, the limitless means of recreation incorporated in cell phones, namely social media and video games can be an irresistible temptation. Indeed, this lack of concentration can negatively impact academic performance and hinder their engagement in classroom activities. By banning phones, schools can create an environment that prioritises learning and reduces the indulgence in non-educational digital content. Furthermore, the absence of cell phones can promote face-to-face communication, forming closer bonds with other students. Evidently, cell phones can be a distraction during private conversations; meanwhile in-person interactions allow students to be more engaging through depictions of body language and facial expressions.
+
+On the other hand, such a ban could potentially stifle students' liberty and their ability to regulate their own online behaviours. Initially, in a world where digital technology is omnipresent, it is essential for the young generation to develop self-consciousness towards their usage of cell phones. However, a complete prohibition removes the undergraduates' rights to proactively restrict themselves and learn how to balance technology use with other activities. By banning phones outright, schools may inadvertently prevent students from practising self-control in a real-world setting, where digital devices are pertinent and necessary. Moreover, it is incontrovertible that a forbiddance on cell phones can lead to increased student ingenuity in following the rules. To exemplify, students may resort to illicit methods, such as hiding phones in personal belongings or using smartwatches with cellular capabilities. Consequently, even coupled with further impositions, including scrutinising backpacks or unexpectedly examining personal closets, such tactics can be an infringement on the privacy of learners, diverting them from their studies and fostering a sense of rebellion against authority.
+
+As far as I am concerned, a nuanced approach is imperative in harnessing the associated advantages of this initiative. Undeniably, schools could implement a learning environment that combines regulation with education. For instance, allowing cell phones during designated times or for specific academic purposes can be a pragmatic method in balancing students’ attention towards learning and digital presence, instead of an outright restriction.
+
+In conclusion, while the ban on cell phones in high schools may offer short-term benefits in terms of focus and discipline, it is essential to consider the long-term consequences on student autonomy and the development of responsible digital behaviour. Incorporating cell phone use within the pedagogical landscape and enabling students autonomy for their online behaviours can proffer students a more holistic and friendly academic setting.

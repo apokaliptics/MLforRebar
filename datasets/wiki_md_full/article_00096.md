@@ -1,0 +1,42 @@
+---
+title: "Quintilis"
+source: "https://en.wikipedia.org/wiki/Quintilis"
+---
+
+Month of the ancient Roman calendar
+
+In the ancient [Roman calendar](/wiki/Roman_calendar "Roman calendar"), **Quintilis** or **Quinctilis**[[1]](#cite_note-1) was the month following [Junius](/wiki/Junius_(month) "Junius (month)") (June) and preceding [Sextilis](/wiki/Sextilis "Sextilis") (August).[[2]](#cite_note-CirculoA-2) *Quintilis* is [Latin](/wiki/Latin "Latin") for "fifth": it was the fifth month (*quintilis mensis*) in the earliest calendar attributed to [Romulus](/wiki/Romulus "Romulus"), which began with [Martius](/wiki/Martius_(month) "Martius (month)") ("[Mars'](/wiki/Mars_(god) "Mars (god)") month," March) and had 10 months. After the calendar reform that produced a 12-month year, Quintilis became the seventh month, but retained its name. In 45 BC, [Julius Caesar](/wiki/Julius_Caesar "Julius Caesar") instituted a new calendar (the [Julian calendar](/wiki/Julian_calendar "Julian calendar")) that corrected astronomical discrepancies in the old. After his death in 44 BC, the month of Quintilis, his birth month, was renamed ***Julius*** in his honor, hence July.[[2]](#cite_note-CirculoA-2)
+
+Quintilis was under the guardianship *([tutela](/wiki/Tutelary_deity "Tutelary deity"))* of the Romans' supreme deity [Jupiter](/wiki/Jupiter_(mythology) "Jupiter (mythology)"), with sacrifices made particularly to [Neptune](/wiki/Neptune_(mythology) "Neptune (mythology)") and [Apollo](/wiki/Apollo "Apollo"). Agricultural [festivals](/wiki/Roman_festivals "Roman festivals") directed at the harvest gradually lost their importance, and the month became dominated in [urban Imperial Rome](/wiki/Roman_Empire#City_and_country "Roman Empire") by the [Ludi Apollinares](/wiki/Ludi_Apollinares "Ludi Apollinares"), games *([ludi](/wiki/Ludi "Ludi"))* in honor of Apollo.[[3]](#cite_note-3) Ten days of games were celebrated in honor of Julius Caesar at the end of the month.
+
+## Dates
+
+[[edit](/w/index.php?title=Quintilis&action=edit&section=1 "Edit section: Dates")]
+
+Like the modern month of [July](/wiki/July "July"), this was one of the "long" months that had 31 days. The Romans did not number days of a month sequentially from the 1st through the last day. Instead, they counted back from the three fixed points of the month: the [Nones](/wiki/Nones_(calendar) "Nones (calendar)") (*Nonae,* 5th or 7th, depending on the length of the month), the [Ides](/wiki/Ides_(calendar) "Ides (calendar)") (*Idūs,* 13th or 15th), and the [Kalends](/wiki/Kalends "Kalends") (*Kalendae,* 1st) of the following month. Thus, the last day of Quintilis was the *pridie Kalendas Sextilis*,[[4]](#cite_note-4) "day before the Kalends of [Sextilis](/wiki/Sextilis "Sextilis")" (August). Roman counting was [inclusive](/wiki/Inclusive_counting "Inclusive counting"); July 5 was *ante diem III Nonas Quintilis*, "the 3rd day before the Nones (7th) of Quintilis," usually abbreviated *a.d. III Non. Quint.* (or with the *a.d.* omitted altogether); July 23 was *X. Kal. Sext.*, "the 10th day before the Kalends of Sextilis."
+
+Each day was marked with a letter such as **F** for *[dies fasti](/wiki/Glossary_of_ancient_Roman_religion#fasti "Glossary of ancient Roman religion")*, days when it was legal to initiate action in the courts of [civil law](/wiki/Roman_law "Roman law"); **C**, for *dies comitalis,* a day on which the Roman people could hold assemblies *([comitia](/wiki/Comitia "Comitia"))*, elections, and certain kinds of judicial proceedings; **N** for *[dies nefasti](/wiki/Glossary_of_ancient_Roman_religion#nefastus "Glossary of ancient Roman religion")*, when these political activities and the administration of justice were prohibited; or **NP**, the meaning of which remains elusive, but which marked *[feriae](/wiki/Glossary_of_ancient_Roman_religion#feria "Glossary of ancient Roman religion")*, public holidays.[[5]](#cite_note-5) Days were also marked with [nundinal letters](/wiki/Roman_calendar#Nundinal_cycle "Roman calendar") in cycles of *A B C D E F G H*, to mark the "market week"[[6]](#cite_note-6) A *[dies natalis](/wiki/Glossary_of_ancient_Roman_religion#dies_natalis "Glossary of ancient Roman religion")* was an anniversary such as a temple founding or rededication, sometimes thought of as the "birthday" of a deity. On a *[dies religiosus](/wiki/Dies_religiosus "Dies religiosus")*, individuals were not to undertake any new activity, nor do anything other than tend to the most basic necessities.
+
+During the [Imperial period](/wiki/Roman_Empire "Roman Empire"), some of the traditional festivals localized at Rome became less important, and the birthdays and anniversaries of the emperor and his family gained prominence as Roman holidays. On the calendar of military religious observances known as the *[Feriale Duranum](/wiki/Feriale_Duranum "Feriale Duranum")*, sacrifices pertaining to [Imperial cult](/wiki/Imperial_cult_(ancient_Rome) "Imperial cult (ancient Rome)") outnumber the older festivals. After the latter 1st century AD, a number of dates are added to calendars for [spectacles and games](/wiki/Roman_Empire#Recreation_and_spectacles "Roman Empire") *([ludi](/wiki/Ludi "Ludi"))* held in honor of various deities in the venue called a "[circus](/wiki/Circus_(building) "Circus (building)")" *(ludi circenses)*.[[7]](#cite_note-7) By the late 2nd century AD, extant calendars no longer show days marked with letters *(F, N, C* and so on) to show their religious status, probably in part as a result of calendar reforms undertaken by [Marcus Aurelius](/wiki/Marcus_Aurelius "Marcus Aurelius").[[8]](#cite_note-8)
+
+Unless otherwise noted, the dating and observances on the following table are from [H.H. Scullard](/wiki/H.H._Scullard "H.H. Scullard"), *Festivals and Ceremonies of the Roman Republic* (Cornell University Press, 1981), pp. 158–169.
+
+## See also
+
+[[edit](/w/index.php?title=Quintilis&action=edit&section=2 "Edit section: See also")]
+
+* Month names: [Ianuarius](/wiki/Ianuarius "Ianuarius"), [Februarius](/wiki/Februarius "Februarius"), [Martius](/wiki/Martius_(month) "Martius (month)"), [Aprilis](/wiki/Aprilis "Aprilis"), [Maius](/wiki/Maius "Maius"), [Junius](/wiki/Junius_(month) "Junius (month)"), [Sextilis](/wiki/Sextilis "Sextilis"), [September](/wiki/September_(Roman_month) "September (Roman month)"), [October](/wiki/October_(Roman_month) "October (Roman month)"), [November](/wiki/November_(Roman_month) "November (Roman month)"), [December](/wiki/December_(Roman_month) "December (Roman month)").
+* Leap month: [Mercedonius](/wiki/Mercedonius "Mercedonius") or [Intercalaris](/wiki/Intercalaris "Intercalaris").
+
+## Notes
+
+[[edit](/w/index.php?title=Quintilis&action=edit&section=3 "Edit section: Notes")]
+
+1. **[^](#cite_ref-1)** [H.H. Scullard](/wiki/H.H._Scullard "H.H. Scullard"), *Festivals and Ceremonies of the Roman Republic* (Cornell University Press, 1981), p. 158; Bonnie Blackburn and Leofranc Holford-Strevens, *The Oxford Companion to the Year* (Oxford University Press, 1999), p. 669.
+2. ^ [***a***](#cite_ref-CirculoA_2-0) [***b***](#cite_ref-CirculoA_2-1) "Los Cielos de Agosto" (Spanish: "The Skies of August"), Jorge R. Ianiszewski, *Circulo Astronomico*, 2006, webpage: [CirA-Agosto](http://www.circuloastronomico.cl/cielo/agosto.html).
+3. **[^](#cite_ref-3)** Scullard, *Festivals and Ceremonies of the Roman Republic,* p. 158.
+4. **[^](#cite_ref-4)** The month name is construed as an adjective modifying *Kalendae,* *Nonae* or *Idũs*; as [accusative](/wiki/Accusative_case "Accusative case") plural, *Sextilĩs* might also be written as *Sextilēs.*
+5. **[^](#cite_ref-5)** Scullard, *Festivals and Ceremonies,* pp. 44–45.
+6. **[^](#cite_ref-6)** [Jörg Rüpke](/wiki/J%C3%B6rg_R%C3%BCpke "Jörg Rüpke"), *The Roman Calendar from Numa to Constantine: Time, History, and the Fasti,* translated by David M.B. Richardson (Blackwell, 2011, originally published 1995 in German), p. 6.
+7. **[^](#cite_ref-7)** Michele Renee Salzman, *On Roman Time: The Codex Calendar of 354 and the Rhythms of Urban Life in Late Antiquity* (University of California Press, 1990), p. 118ff.
+8. **[^](#cite_ref-8)** Salzman, *On Roman Time*, p. 17.

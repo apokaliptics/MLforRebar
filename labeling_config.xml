@@ -1,0 +1,9 @@
+<View>
+  <Header value="Label paragraph boundary: pick 'split' if the boundary should be a paragraph break, otherwise pick 'no_split'"/>
+  <Text name="before" value="$text_before"/> 
+  <Text name="after" value="$text_after"/>
+  <Choices name="split-choice" toName="before" choice="single">
+    <Choice value="split" />
+    <Choice value="no_split" />
+  </Choices>
+</View>

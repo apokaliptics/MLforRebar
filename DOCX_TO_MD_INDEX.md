@@ -1,0 +1,68 @@
+# DOCX to Markdown conversion index
+
+Converted 56 files.
+
+- [A199 - Nguyen Minh Kiet (Water + Old people).md](A199 - Nguyen Minh Kiet (Water + Old people).md) — originally `A199 - Nguyen Minh Kiet (Water + Old people).docx`
+- [A199 - Nguyen Minh Kiet - (1).md](A199 - Nguyen Minh Kiet - (1).md) — originally `A199 - Nguyen Minh Kiet - (1).docx`
+- [A199 - Nguyen Minh Kiet - 06_05_2023.md](A199 - Nguyen Minh Kiet - 06_05_2023.md) — originally `A199 - Nguyen Minh Kiet - 06_05_2023.docx`
+- [A199 - Nguyen Minh Kiet - 20_5_2023.md](A199 - Nguyen Minh Kiet - 20_5_2023.md) — originally `A199 - Nguyen Minh Kiet - 20_5_2023.docx`
+- [A199 - Nguyen Minh Kiet - 24_06_2023.md](A199 - Nguyen Minh Kiet - 24_06_2023.md) — originally `A199 - Nguyen Minh Kiet - 24_06_2023.docx`
+- [A199 - Nguyen Minh Kiet - Government and Society.md](A199 - Nguyen Minh Kiet - Government and Society.md) — originally `A199 - Nguyen Minh Kiet - Government and Society.docx`
+- [A199 - Nguyen Minh Kiet Theme 1.md](A199 - Nguyen Minh Kiet Theme 1.md) — originally `A199 - Nguyen Minh Kiet Theme 1.docx`
+- [A199 - Nguyen Minh Kiet Theme 2.md](A199 - Nguyen Minh Kiet Theme 2.md) — originally `A199 - Nguyen Minh Kiet Theme 2.docx`
+- [A199 - Nguyen Minh Kiet Theme 3 - TÁCH MỖI ESSAY 1 FILE EM ƠI_.md](A199 - Nguyen Minh Kiet Theme 3 - TÁCH MỖI ESSAY 1 FILE EM ƠI_.md) — originally `A199 - Nguyen Minh Kiet Theme 3 - TÁCH MỖI ESSAY 1 FILE EM ƠI_.docx`
+- [A199 - Nguyen Minh Kiet- Topic 2_ Crime and Punishment.md](A199 - Nguyen Minh Kiet- Topic 2_ Crime and Punishment.md) — originally `A199 - Nguyen Minh Kiet- Topic 2_ Crime and Punishment.docx`
+- [A199 - Nguyen Minh Kiet.md](A199 - Nguyen Minh Kiet.md) — originally `A199 - Nguyen Minh Kiet.docx`
+- [aaaa.md](aaaa.md) — originally `aaaa.docx`
+- [AI.md](AI.md) — originally `AI.docx`
+- [copy for myself.md](copy for myself.md) — originally `copy for myself.docx`
+- [Copy of A199 - Nguyen Minh Kiet - 06_05_2023.md](Copy of A199 - Nguyen Minh Kiet - 06_05_2023.md) — originally `Copy of A199 - Nguyen Minh Kiet - 06_05_2023.docx`
+- [Copy of Daklak(1).md](Copy of Daklak(1).md) — originally `Copy of Daklak(1).docx`
+- [Copy of Daklak(2).md](Copy of Daklak(2).md) — originally `Copy of Daklak(2).docx`
+  - messages: Message(type='warning', message='An unrecognised element was ignored: {http://schemas.openxmlformats.org/officeDocument/2006/math}oMath')
+- [Copy of Daklak.md](Copy of Daklak.md) — originally `Copy of Daklak.docx`
+  - messages: Message(type='warning', message='An unrecognised element was ignored: {http://schemas.openxmlformats.org/officeDocument/2006/math}oMath')
+- [Copy of Nguyen Minh Kiet - Essay.md](Copy of Nguyen Minh Kiet - Essay.md) — originally `Copy of Nguyen Minh Kiet - Essay.docx`
+- [Copy of Vu Nguyen - Technology.md](Copy of Vu Nguyen - Technology.md) — originally `Copy of Vu Nguyen - Technology.docx`
+  - messages: Message(type='warning', message='Unrecognised paragraph style: Title (Style ID: Title)')
+- [DE HSGQG-2024.md](DE HSGQG-2024.md) — originally `DE HSGQG-2024.docx`
+  - messages: Message(type='warning', message='An unrecognised element was ignored: v:oval'); Message(type='warning', message='Unrecognised run style: Body text (2) (Style ID: Bodytext2)'); Message(type='warning', message='Unrecognised paragraph style: Body text (34) (Style ID: Bodytext340)'); Message(type='warning', message='Unrecognised run style: Body text (13) (Style ID: Bodytext13)'); Message(type='warning', message='Unrecognised run style: Body text (14) (Style ID: Bodytext14)'); Message(type='warning', message='Unrecognised paragraph style: Body Text (Style ID: BodyText)'); Message(type='warning', message='Unrecognised paragraph style: Normal (Web) (Style ID: NormalWeb)'); Message(type='warning', message='Unrecognised paragraph style: Realia Head (Style ID: RealiaHead)'); Message(type='warning', message='Unrecognised paragraph style: Body text (10) (Style ID: Bodytext100)'); Message(type='warning', message='Unrecognised paragraph style: Body Text15 (Style ID: BodyText15)')
+- [deadline total death.md](deadline total death.md) — originally `deadline total death.docx`
+- [DH24.md](DH24.md) — originally `DH24.docx`
+- [Due 14_2_2025 Writing - HW.md](Due 14_2_2025 Writing - HW.md) — originally `Due 14_2_2025 Writing - HW.docx`
+- [essay.md](essay.md) — originally `essay.docx`
+- [EXAMPLE FOR MISTAKES THAT YOU NEED TO ESCHEW IN YOUR ESSAY.md](EXAMPLE FOR MISTAKES THAT YOU NEED TO ESCHEW IN YOUR ESSAY.md) — originally `EXAMPLE FOR MISTAKES THAT YOU NEED TO ESCHEW IN YOUR ESSAY.docx`
+- [HG.md](HG.md) — originally `HG.docx`
+- [HMD_TA11_DA+HDC DE XUAT_DHBB 14.md](HMD_TA11_DA+HDC DE XUAT_DHBB 14.md) — originally `HMD_TA11_DA+HDC DE XUAT_DHBB 14.docx`
+  - messages: Message(type='warning', message='Unrecognised paragraph style: Default (Style ID: Default)')
+- [Key ngay 1 chinh thuc.md](Key ngay 1 chinh thuc.md) — originally `Key ngay 1 chinh thuc.docx`
+  - messages: Message(type='warning', message='An unrecognised element was ignored: v:line'); Message(type='warning', message='Unrecognised paragraph style: Table Paragraph (Style ID: TableParagraph)')
+- [KTDDTQG24.QNA(1).md](KTDDTQG24.QNA(1).md) — originally `KTDDTQG24.QNA(1).docx`
+- [KTDDTQG24.QNA.md](KTDDTQG24.QNA.md) — originally `KTDDTQG24.QNA.docx`
+- [KTDT24.BG.md](KTDT24.BG.md) — originally `KTDT24.BG.docx`
+- [Lesson Plan.md](Lesson Plan.md) — originally `Lesson Plan.docx`
+- [LNY HW - Writing.md](LNY HW - Writing.md) — originally `LNY HW - Writing.docx`
+- [Minh Kiet 12CA - DNA.md](Minh Kiet 12CA - DNA.md) — originally `Minh Kiet 12CA - DNA.docx`
+- [MOCK TEST.md](MOCK TEST.md) — originally `MOCK TEST.docx`
+- [my answers.md](my answers.md) — originally `my answers.docx`
+- [my essay.md](my essay.md) — originally `my essay.docx`
+- [Nguyen Minh Kiet - A199.md](Nguyen Minh Kiet - A199.md) — originally `Nguyen Minh Kiet - A199.docx`
+- [Nguyen Minh Kiet - Essay.md](Nguyen Minh Kiet - Essay.md) — originally `Nguyen Minh Kiet - Essay.docx`
+- [Nguyen Minh Kiet A199.md](Nguyen Minh Kiet A199.md) — originally `Nguyen Minh Kiet A199.docx`
+- [nostalgic documents.md](nostalgic documents.md) — originally `nostalgic documents.docx`
+  - messages: Message(type='warning', message='An unrecognised element was ignored: {http://schemas.openxmlformats.org/officeDocument/2006/math}oMath')
+- [Outline for my speech.md](Outline for my speech.md) — originally `Outline for my speech.docx`
+- [Some people think that schools should reward students who show the best academic results.md](Some people think that schools should reward students who show the best academic results.md) — originally `Some people think that schools should reward students who show the best academic results.docx`
+- [Some scientists believe that in the future computers will be more intelligent than human beings.md](Some scientists believe that in the future computers will be more intelligent than human beings.md) — originally `Some scientists believe that in the future computers will be more intelligent than human beings.docx`
+- [Task 2 20_7_2024.md](Task 2 20_7_2024.md) — originally `Task 2 20_7_2024.docx`
+- [technology gap.md](technology gap.md) — originally `technology gap.docx`
+- [Televised talent shows have become popular in many societies today.md](Televised talent shows have become popular in many societies today.md) — originally `Televised talent shows have become popular in many societies today.docx`
+- [Untitled document(1).md](Untitled document(1).md) — originally `Untitled document(1).docx`
+- [Untitled document.md](Untitled document.md) — originally `Untitled document.docx`
+- [Version 2 of LNY HOMEWORK (WRITING) look at.md](Version 2 of LNY HOMEWORK (WRITING) look at.md) — originally `Version 2 of LNY HOMEWORK (WRITING) look at.docx`
+- [Write an essay of about 350 words about the following topic.md](Write an essay of about 350 words about the following topic.md) — originally `Write an essay of about 350 words about the following topic.docx`
+- [Writing (first session).md](Writing (first session).md) — originally `Writing (first session).docx`
+- [writing htinh.md](writing htinh.md) — originally `writing htinh.docx`
+- [writing.md](writing.md) — originally `writing.docx`
+- [ĐỀ ĐỀ XUẤT DHBB 2023 K11 - (HDC).md](ĐỀ ĐỀ XUẤT DHBB 2023 K11 - (HDC).md) — originally `ĐỀ ĐỀ XUẤT DHBB 2023 K11 - (HDC).docx`
+  - messages: Message(type='warning', message='Unrecognised paragraph style: Body Text1 (Style ID: BodyText1)'); Message(type='warning', message='Unrecognised run style: 15 (Style ID: 15)'); Message(type='warning', message='Unrecognised run style: fontstyle01 (Style ID: fontstyle01)'); Message(type='warning', message='Unrecognised run style: fontstyle21 (Style ID: fontstyle21)'); Message(type='warning', message='Unrecognised run style: fontstyle31 (Style ID: fontstyle31)'); Message(type='warning', message='Unrecognised paragraph style: Plain Text (Style ID: PlainText)'); Message(type='warning', message='Unrecognised paragraph style: List Paragraph (Style ID: ListParagraph)')

@@ -1,0 +1,18 @@
+---
+title: "writing htinh"
+source: "C:/Users/Admin/Downloads/drive-download-20251225T152443Z-3-001/writing htinh.docx"
+---
+
+Some people believe that a crime is a result of social problems and poverty, others think that crime is a result of bad person’s nature.
+
+*Discuss both views and demonstrate your opinion*
+
+In contemporary society, the underlying causative factor of crime is a contentious matter. Several individuals argue that crime is a corollary of social issues and destitution, while others believe that criminal activities are incurred due to inherent flaws within an individual's character. In this essay, I will discuss both viewpoints and present my opinion with pertinent examples to substantiate it.
+
+On the one hand, it is incontrovertible that societal problems and substandard living conditions can contribute to the development of illicit activities. To commence with, individuals facing limited opportunities and harsh living standards are more inclined to resort to lawbreaking behaviours. To elucidate, insufficient education and violent surroundings can undoubtedly distort one’s view on crime, leading them to believe that criminal activities are viable means of attaining wealth and power. Moreover, social inequality and an absence of social support can also be a major contributor to crime. When people witness wealth disparity and feel excluded from society’s benefits, they may experience resentment and frustration. Undeniably, this sense of marginalisation can incentivise one to seek illegal means to achieve wealth and status.
+
+On the other hand, it is justifiable to contend that crime is primarily a result of an individual's moral deficiencies. Initially, psychological factors, namely aggression and lack of empathy, are key determinants of criminal behaviour. Indubitably, individuals with such traits may struggle to conform to societal norms and may be more likely to engage in criminal activities as a coping mechanism. Furthermore, self-control and moral integrity, can significantly influence whether a person will commit a crime. Indeed, several individuals have endured immense hardship and managed to build a stable life afterwards without needing to resort to crime.
+
+From my perspective, I believe that there exist numerous compelling factors contributing to the manifestation of criminal tendencies. While individual characteristics, such as violence and deprivation of empathy, can certainly play a role, I believe that social and economic factors are often the underlying causes of crime. Additionally, the inadequacy of resources and societal issues are undeniably the prime breeding aspect of immoral behaviours. Consequently, it is imperative to realise that behavioural deficiencies, social issues and destitution are the main reasons for crime; however, the two latter factors are breeding grounds for moral corruption. Accordingly, it is paramount to address the root causes of crime, including poverty, inequality, and social injustice to ultimately reduce crime rates and create a safer society.
+
+In conclusion, both social problems and individual character traits contribute to the incidence of crime, but it is the societal issues of poverty and inequality that frequently drive people to criminal acts. Hence, I believe that it is vital to confront the prime causes of the participation in criminal activities to render a more secure and fair community.
