@@ -1,0 +1,9 @@
+---
+source: kaggle
+---
+
+Information is presented in two tables which compare the number of students exchanging between universities in Europe and Australia in two different years (2007 and 2009).
+Overall, it can be clearly seen that the popularity of exchange students from universities in Europe to Australia is more than that of exchange students from Australia universities to universities in Europe in both years.
+Turning to the first main feature in the first table, a modest 27 students in Germany joined the exchange program to universities in Australia in 2007. The figure for exchange students from Germany to Australia then soared to a precise 62 in 2009. On the other hand, there was a decrease of an exact 5 people in the figure for exchange students from universities in the United Kingdom to universities in Australia, from 31 people in 2007 to 26 people in 2009. Nevertheless, the number of exchange students in Netherland remained unchanged at an exact 36 in both 2007 and 2009.
+Focusing further on another main feature in the second table, each of 32 students from universities in the United Kingdom and Netherland exchanged to universities in Australia in 2007. In 2009 the number of exchange students from the United Kingdom and Netherland fell to a modest 23 and 18 respectively. On the contrary, there was a substantial rise of a massive 21 people in the figure for exchange students from France to Australia, from an exact 37 people in 2007 to a precise 58 people in 2009.
+The last key point to note is the total number of exchange students in both tables. There were 189 and 226 exchange students from universities in Europe to Australia universities in 2007 and 2009 respectively. On the other hand, the figure for students exchanging from Australia to Europe was remained stable at a modest 152 in both years.

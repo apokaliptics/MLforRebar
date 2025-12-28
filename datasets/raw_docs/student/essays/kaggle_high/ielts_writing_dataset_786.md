@@ -1,0 +1,8 @@
+---
+source: kaggle
+---
+
+The illustration shows the present water consevation and distribution system in australia.In this aticle we will cover the present water distribution supply in details and make observations which will make the system more effective for future applications.
+This section provides details on the present water supply system. Present water supply system consists of a dam which is used to store the water which is collected from rains.Once the dams are filled with water the pure water is supplied to household, factories and the cities for use. The waste water from the commecial sectors is sent to water treatment plant for treatment.Any water from the storms is supplied to the rivers.
+Although supply system is a comprehensive water supply and storage system the storm water released into the rivers is not treated to ensure clean water is being released, this could lead to pollution of the rivers.Dams are generally built to hold the river water and collect rain water but it seems the dam is independent of the river, hence building a dam along the river would allow australia to have a better supply of water.Also, the treated waste water can be supplied back for commercial use or released into the river.
+The present water supply system is effective and makes good use of the water ensuring ample availibilty to the country, a few issues can be pointed out which if corrected for the future could lead to this being a more complete water supply system and providing its residents and businesses bettter supply of water.

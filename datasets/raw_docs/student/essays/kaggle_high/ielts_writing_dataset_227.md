@@ -1,0 +1,8 @@
+---
+source: kaggle
+---
+
+In some countries it is a common practice for people to track down their bloodline's history. People give different motivations as to why they do it. I suppport this activity for reasons I will further explain in this essay.
+To begin with, some people want to get information about their family's history just of pure interest. It can be a great hobby for someone to invest their time and enegry into. It will help one destress and have some fun, while also enrichening his area of knowledege. In addition to having something entertaining do to in their free time, one will learn a lot about what his family has been thorugh long before he was born. This is really important because without our anscestors we would not have been born or in other words - without the past there would be no future. If one respects his family and himself enough, he should learn about who they were and where they came from.
+Furthermore, learning about one's family history can be very benefitial in finding your talents. For instance, if someone finds out that in the family there once was someone who was great footballer, then this is something one should try out. Geneticaly, some people are born with specific talents, predisposing them to pursuit a ceratin career path. Being aware of your family's past can be a great hint towards your strenghts and weaknesses.
+In conclusion, finding out your family's history is not only a fun hobby that you can do in your spare time, it can also assist you in finding your talents in life without having to always try out new activities.

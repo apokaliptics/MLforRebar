@@ -1,0 +1,9 @@
+---
+source: kaggle
+---
+
+The ability to associate at school has been a great concern. Owing to this, some assume that the optimal way to boost children's collaborative spirit is through school team sports. In my opinion, teaming up in school sports would be problematic, and therefore, should be implemented in certain occasions, with certain individuals.
+Initially, participating in team sports would put a tremendous risk in injuries. Inevitably, physical group activities require high-speed movements, resulting in harsh collisions. Students then may lose their interest in those activities, or hesitate to attend in order to avoid any kind of damage to their body.
+Another point to consider is that joining team sports can effortlessly breed serious competition among teammates. Therefore, at that time, the objective of cultivating cooperation would be replaced by the desire for accolades in children's mind. This consequently spells trouble for the hostile environment as the feeling of inadequacy and low sellf-esteem in students are growing.
+Finally, the best solution would be offering team sports as an optional project for students. To illustrate, a school football match can open more opportunities for those into soccer and accept to play in unity. In this case, participants may have a chance to immerse themselves in a joint effort after being thoroughly disseminated about the rules. As a result, they are still able to enjoy the game while working in a joint project.
+In conclusion, boosting children association by teamsports may not be feasible for all of them, but operating more joint projects for those with passion and fair play is a much better approach.

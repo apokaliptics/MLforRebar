@@ -1,0 +1,8 @@
+---
+source: kaggle
+---
+
+There are some beliefs that when there is a mixture of nationalities, a country can improve it's development. In my opinion, I believe these statement can be both true and false at the same time.
+Mixture of nationalities may promote country's development as some particular nationalities are more proficient in one particular activity than another nationalities. For example, Jamaican has a superior body in running. They are the whipping out all the gold medals in running. Each nationalities has it's own strongness, so they can help each other to develop the country.
+On the other hand, development in the country may not be fast when different nationalities are in one country due to the conflicts between the locals and the foreigners about culture and language differences. Such conflicts may rise and result in slower development as there are going to be communication difficulties between the local citizens and foreigners. In addition, local citizens may be annoyed of foreign people taking away their jobs, creating more anger between each other. To exemplify, USA is one of the country that has multinational population. USA has developed a lot over a past decade and is a leader of technology but at the same time, it contains many social issues such as race hatred. USA is expected to develop less compared to other countries for many reasons, but mainly due to intelligent and competitive foreign experts leaving their country.
+In conclusion, I believe different nationalities will play a critical role in the country's development. However, the government should educate their local people to understand and respect other country's cultures in order to maximise the productivity in their country.

@@ -1,0 +1,8 @@
+---
+source: kaggle
+---
+
+An increasing number of individuals are taking the decision to have cosmetic surgery in order to achieve a better appearance. I strongly believe that mass media advertising and lower costs of surgery are the reasons for the above. Likewise, I think that it is a negative development for our society.
+To begin with, it is very well known that mass media advertising and lower costs of surgery affect the behaviour of the citizens. Mass media advertising is promoting an uncommon archetype among the population. Plenty of men and women feel that they do not have sex appeal due to the fact that their bodies are different to those shown on television. Moreover, cosmetic surgery costs are more affordable nowadays than before. Hence, several women receive cosmetic surgery as a birthday gift.
+Additionally, I strongly believe that taking the decision to have cosmetic surgery reflects a negative development in our communities for the reason that it reveals that plenty of people have mental health issues. For instance, low self-esteem has been increasing among the young population during the last years. Besides that, cosmetic surgery centres the attention on beauty instead of other more important values, such as honesty, creativity and charity. For example, there are fewer Non-Governmental Organizations such as Green Peace at the present moment than in the past.
+To conclude, harmful mass media advertising and lower costs of cosmetic surgery translate into a negative development in our communities due to mental health issues and citizens spending money on nonsense. I would strongly recommend that authorities create laws to regulate mass media advertising.

@@ -1,0 +1,9 @@
+---
+source: kaggle
+---
+
+The Internet is employed extensively across the world, serving as an essential tool of communication. Nevertheless, the widespread use of internet triggers an intense debate. Some people hold that the use of internet should fall under control, while others disagree and argue that such control is groundless. This essay will analyse both positions and illuminate my standpoint.
+As for those who support the control of the internet use, they may have their position grounded upon the fact that criminal activities run rampant online, threatening individual and public security, as exemplified by hacking technology aimed at stealing personal data illegally, fraudulent advertisements aimed at cheating money and notices post by terrorist groups brainwashing the public. Such activities, if unchecked, may exert undesirable effects on individuals and society. Given such omnipresent dangers online, the control of online activities may be justified.
+On the contrary, in terms of those objecting to the control of the internet use, they may justify their position by highlighting importance of unlimited online activities, as demonstrated by the improvement of work efficiency. A case in point is that posting advertisements online is apparently more efficient than issuing leaflets on a street, from the perspective of a company intending to publicising its services and products. However, the notices post online may present fake information cheating the public. To address this issue, it is necessary to control online activities.
+As far as I am concerned, in view of omnipresent hazards online, intervention is needed to screen dangerous information and ensure the safety of the internet use.
+To conclude, the control of online activities helps to protect us from various cybercrimes, although it may slightly affect the efficiency of work. Personally, I opine that the importance of online control should not be underestimated.

@@ -1,0 +1,8 @@
+---
+source: kaggle
+---
+
+With the increasing population in cities,noise pollution has been one of the important causes of concern.This essay presents the advantages and disadvantages of the strict laws that are made to control noise pollution.
+Noise pollution affects different groups of people in various ways.The increasing noise in recent days has led to increasing problems of hearing impairment in people in today's society.Also,the noise pollution has a devastating affects on the heart patients and it has been affecting people who are working and studying in various ways.By implementing strict rules like imposing heavy fines on vehicles honking unnecessarily and filing a case on the noise caused by the public gatherings like rallies,the above problems can be addressed.For example, recent studies have shown that the cities having less noise pollution have been leading better life when compared to those with noise pollution.
+However,implementing strict laws on noise caused by a person also has some disadvantages.Firstly,different religions have different kinds of festivals which cause a lot of noise.For instance,diwali,one of the most celebrated festivals in India,is celebrated by firing crackers causing a lot of noise is affected by implementing these laws.Secondly,most of the people with religious beliefs will have a bad impact by these rules.To give an example,the prayers in masjids are made with loud noise so that it can reach a large group of people living in the area.
+To conclude,implemeting strict rules like fines and filing a case on the people causing noise pollution have a good impact on the health of the society and increasing the efficiency of work where as the festivals and the religious centres have a negative impact by these laws.

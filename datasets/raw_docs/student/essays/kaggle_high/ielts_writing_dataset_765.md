@@ -1,0 +1,8 @@
+---
+source: kaggle
+---
+
+Some individuals believe that playing outside has a more positive effect on children's development rather than playing computer games. I share the idea that being involved in outdoor activities is more beneficial than playing computer games.
+Active development is the main reason for including outdoor activities in children's life. All people know that the development of children is an extremely significant part of building a personality. To do so parents should try to involve their children in exploring local insects, animals or playing different games such as football, riding bicycles, and many other. This will only expand the knowledge of children, and consequently have a positive effect on their development. This is also important to have a healthy generation in the future. Parents can join their children or they can find some friends around and also be socially active. For example, a father can teach his son how to bicycle or how to take care of plants and trees.
+The next important reason for doing more outdoor activities for children is avoiding physical problems, which can cause computer games. Currently, a lot of people including children suffer from different side effects of a lazy lifestyle and obesity can exemplify it. To avoid problems with physical health in the future, spending a couple of hours should be recommended to all children.
+Of course, little time spent playing computer games will not hurt children, but it is important to limit it. To sum up, children should do more outdoor activities and play computer games less.

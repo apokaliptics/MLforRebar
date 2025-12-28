@@ -1,0 +1,8 @@
+---
+source: kaggle
+---
+
+The charts demonstrate the sex distribution in a various of age groups between France and India in 1984.
+By and large, the males and females in the population of France almost balanced each other particularly in the age groups of 0-65 years old in 1984 with a symmetric sex composition. The age group 30-35 was revealed to be the highest percentages of population in France whereas the largest proportion of Indian population was in the age group 0-5 with a skewed sex ratio.
+Going into more details, in regard to age structure of population, India had a vast majority of population in younger groups, constituting for 49% of population in the age groups of 0-20 years old. In particular, the highest percentages of Indian population presented in the age group 0-5 with the males to felamles ratio around 7% to 6.5%. Indian aged 70 years old or more was shown a steep decline, reaching less than 2% of population with balanced sex distribution.
+In contrast, French people aged 10 - 40 years old made up the largest section in demographic structure, accounting for approximately 45% of population. The age group 30-35 reported as the highest proportion of population in France with around 4% of population in each gender. The males to females ratio in the age group 85 years old or more was represented to be the smallest of population in France, by 0.2% males to 1% females of population.

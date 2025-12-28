@@ -1,0 +1,7 @@
+---
+source: kaggle
+---
+
+The diagram illustrates the evolution of the horse in terms of their foot structure over a 40 million year period. Overall, the horse's were divided into four stages of development, starting from a period of 40 million years ago until now, with a 10 to 15 million year gap approximation in between.
+To begin with, 40 million years ago, the Eohippus, which was the first developmental stage of a horse's foot structure was similar to the bone structure of a human's hand. However, they branch out into five toes while travelling on foot. Then, during stage 2 of the horse's foot development, which was 10 million years later, the horse evolved into a Mesohippus. With regards to the structure of its toe, it was reduced from the original five into three. In addition, the middle toe had a larger foot structure compared to other other two.
+Next, 15 million years later, came the evolution of a Merychippus from a Mesohippus. Similarly, the foot structure was identical to the Mesohippus' horse but did not have the middle toe's length significantly longer than the other two. Although the middle toe was thicker than before, it became more even in terms of its length comparison to its other two toes. Finally, the emergence of the final evolution of the horse in modern days. With regards to the foot structure, it no longer branched out into several toes as it used to be, but is shaped like a tree branch with a rounded bases on the bottom of the foot.

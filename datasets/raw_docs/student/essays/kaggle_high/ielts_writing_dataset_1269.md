@@ -1,0 +1,8 @@
+---
+source: kaggle
+---
+
+Recently, there have been significant changes in the family structure and family roles. This essay will illuminate some of these changes and analyse whether such changes are beneficial or detrimental.
+One of the most prominent changes in this regard refers to the tendency of couples having fewer children or even no children, which may be attributed to adults' increasing workload and ensuing inability to look after children properly. Given their hectic schedules and rational concerns about their limited time and patience in taking care of adolescents, many couples would rather have fewer children. Another change is the growing trend of females joining the workforce, as necessitated by increasing living expenses, such as utility bills and property prices. To afford such costs and reach expected living standards, females have to give up being family women and apply for jobs. The other factor driving women to take jobs is the popularity of feminism upholding that women should be equal to men in all aspects, including employment.
+As far as I am concerned, these changes derive from people's practical and merticulous considerations in the face of huge challenges, namely, the lack of time to take care of minors and soaring living costs. To tackles these obstacles, it is necessary for people to make such changes. Therefore, I vehemently support these changes.
+To sum up, the modern society is witnessing great changes in the family structure and family roles, as exemplified by the smaller family size and larger number of females taking jobs. Personally, I think these are positive changes.

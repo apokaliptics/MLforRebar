@@ -1,0 +1,8 @@
+---
+source: kaggle
+---
+
+The bar charts illustrate the proportions of Australian citizens living in three different types of areas which are divided into two groups, namely the people born in and outside Australia. The figures are given for 1995 and 2010.s
+Roughly speaking, no matter where the people were born, it is noticeable that the majority of Australians lived in cities. This trend experienced a considerable increase from 1995 to 2010, while in the other two alternative places of living, towns and rural areas, there were overall fewer people choosing to live in 2010 than in 1995.
+Looking at the people living in cities first, around 50 percent of people who were born in Australia lived in cities in 1995, but this figure rose to over 60 percent in 2010. At the same time, 60 percent of those who were born outside of Australia decided to live in cities in 1995, and this proportion increased to 80 percent fifteen years later.
+With regard to the people living in rural areas, the proportion of people fell dramatically from 1995 to 2010 despite where they were born, especially for the people born outside of Australia. The percentage reduced to approximately one-eighth in 2010 compared to 1995. By contrast, the changes in the proportions of people living in towns from 1995 to 2010 seem to be marginal, according to the charts. While five percent fewer of the people born in Australia lived in towns in 2010 than in 1995, the proportions of the people who were born outside of Australia and lived in towns in both mentioned years remained almost stable.

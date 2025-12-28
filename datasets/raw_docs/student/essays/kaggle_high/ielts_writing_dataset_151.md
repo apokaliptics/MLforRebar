@@ -1,0 +1,8 @@
+---
+source: kaggle
+---
+
+It is believed that cities provide a better life in the comparsion of the life in a small town or a village. However, some people consider that the life in big cities is generally hazardous for the health of people. In my opinion, although big cities provide many amenities to the people but the city life is not good for a person when it comes to health.
+The main reason is continuous increase in population. Metropolitan cities attract people from small towns and/or villages in search of better opportunities, good education for their children or medical facilities. This migration makes these cities overcrowded. As population increases, there will be many vehicles on roads. More traffic will lead to more air and noise pollution. Likewise, as the population increases, the demand for housing also will escalate. To fulfill the demand of housing, local government has to reduce the green space to built more buildings in the city which will lead to more pollution. Obviously, pollution causes many health issues.
+Another reason is stressful and busy life in the big cities. People working in big MNC companies in the cities, have deadlines to complete their work. If they are not able to meet the deadlines, it will affect their growth in the company. People in metropolitan cities are so busy that they don't have time to take care of their health. Living in a continuous stress without taking care of the health leads to many health problems.
+To conclude, the life in a big city is very stressful, busy and surrounded with a lot of pollution, which is not good for health of an individual.

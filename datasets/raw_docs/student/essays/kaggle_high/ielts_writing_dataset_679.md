@@ -1,0 +1,8 @@
+---
+source: kaggle
+---
+
+Striving for own career development is most of the people's lifetime target in the modern city. In some nations, employees spend long time at work becomes a phenomenon. This essay is going yo discuss the reasons behind and I reckon that this is a negative development for both the companies and employees.
+There are two main reasons behind this phenomenon. Firstly, it could be the corporate culture of the company. The management members of the company may agree that workers spending a long period of time in the office equals to excellent performance. For instance, employees in Japanese company could get a greater annual bonus or better chance to promote if they are eager to work for a long hours. This forces the employees to to show up in the office just because of giving a good impression to the boss.
+Secondly, as the competition between different companies in the market is nervous, coporate sectors are willing to push their colleagues to enhance their sales or performance. It causes a great pressure to the employees whom need to work for long hours to fuifill the expectation from the managements. For example, product sales agents' performance depends on the sales number quarterly. If the agent cannot sale the products effectively, they will receive less revenues or even being sacked.
+As per the reasons stated, I absolutely think that it is a negative development for both the employees and companies. It is because it gives the unnecessary pressure to the colleagues which will affect their mental health. Inversely, it downgrades the performance of the employee as well as the company. Work-life balance is important to everyone as suitable relaxing time can considerably enhance the performance of human.

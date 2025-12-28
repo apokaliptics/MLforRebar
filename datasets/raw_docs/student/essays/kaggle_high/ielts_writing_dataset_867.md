@@ -1,0 +1,8 @@
+---
+source: kaggle
+---
+
+It is believed that it is more advantageous to participate in sports that are deemed pair activities such as football ,whilst a portion of people hold the perception that participating in individual activities ,such as tennis or swimming , is considered more beneficial. This is an issue that considerably affects our choices in athletism and consequently our mode of living.This essay will consider whether the the overall effect of being a member of a sports team is positive or negative.
+It is an undeniable fact that by taking part in teams benefits a lot someone's social prowess. That is owing to the fact that social skills are inextricably linked to the way individuals cooperate with each other.A prime example is the athletes in competitions who pay respect to the opponent.Notwithstanding the fact that people realize how they are suppose to behave to others , there is a handful of people for whom doing sports alone offers them more relaxation.
+In addition, being a part of a team plays a pivotal role in creating relationships .That is due to the fact that people interact with each other and learn about the personality traits of the team members. In spite of the fact that team provide the chance to become more social , there are team of low quality in which individuals may feel disturbed. A typical example is teams consisted of children at a tender age which may treat unfairly some other members given they differ in color or religious outlook.
+In conclusion , it is reasonable to maintain that sports that require participating in teams is not less disadvantageous than individual sports .

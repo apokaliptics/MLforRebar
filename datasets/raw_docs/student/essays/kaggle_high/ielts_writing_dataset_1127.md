@@ -1,0 +1,9 @@
+---
+source: kaggle
+---
+
+Usage of drugs is now common in our contemporary societies, but youngsters of nowadays are abusing both legalised and illegalised drugs, and this is becoming a norm from tender age. In this essay, i am going to discuss the causes and some consequences of the widespread abuse of drugs by young adults, and give some recommendations that will help combat this trend.
+To begin, it is a well known fact that the abuse of drugs can cause some devastating effects to the consumer. A lot of youths today, learnt this lifestyle from their parents, or thier immediate environment. For example, a teenager whose parents take cocaine, will inevitably take after the parents, afterall, an apple does not fall far away from its tree.
+Also, a teenager that smokes illegal drugs like marijuana, might not even live to tell the rest of the stories. The chemical components of this drug are incredibly strong, that when abused, can lead to psychological symptoms, like, hallucinations, delusions, and even in worst cases death. A recent study, showed that 75% of young adults, who suffer from hallucinations and delusions, are as a result of intake of hard drugs.
+In terms of recommendations, the governments should set up addiction clinic to help combat the ubiquitous trend among youths. This will go a long way in alleviating the addiction towards drugs. There should also be an awareness created to help instill fear into obstinate teenagers. Psychotherapy should also be recommended.
+To conclude, a lot of youngsters are abusing drugs, due to the fact that their parents partake in this ugly trends, however, the government should creat an awareness on the repercussions associated with drug abuse, and also build addiction clinics to help them nip this addiction to the bud.

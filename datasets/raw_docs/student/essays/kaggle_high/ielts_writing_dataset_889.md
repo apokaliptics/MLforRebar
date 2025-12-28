@@ -1,0 +1,9 @@
+---
+source: kaggle
+---
+
+News reports in the media focus on problems and emergencies more often than on some positive events. Is it really harmful to the individuals and the society as a whole?
+Let us consider the purpose of the media existence first. I suppose it is to spread important information, so that people may use it in their lives. And problems are usually more important than some positive developments, since, in fact, they are the things which people should be aware of in the first place. For example, due to the COVID, which is an international problem, many people lost their jobs. If they had been notified about the rising of pandemic though, they would have prepared somehow (save more money by cutting unnecessary expenses, learn a new profession and so forth).
+Moreover, I believe problems shall be solved. And when people are concerned about some problems, they may tend to face them with honor and participate in solving them. For instance, the energy crisis is a huge problem, and it is important to aware society of it, so that individuals could try to be more careful with gas and electricity. In the end, society will benefit from it, so it is not harmful.
+On the other hand, there is some negative impact of bad news on individuals sometimes. But I am sure it should be considered as psychological issues of particular individuals, rather than a problem of today's media system. People just should not fall in despair because of news reports, but think how they could take an advantage of the provided information to minimize a negative impact and help humanity to solve problems.
+Finally, in my view, the stated tendency is not really harmful to society, but it may sometimes be harmful to the individuals, and they are responsible for it.

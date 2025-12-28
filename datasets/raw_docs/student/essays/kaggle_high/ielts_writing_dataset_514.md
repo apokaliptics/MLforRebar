@@ -1,0 +1,8 @@
+---
+source: kaggle
+---
+
+The diagrams show the way in which the flooding of houses may be prevented by constructing them upon raised foundations, so that the floor of the house is separated from the highest probable water level (considering a period of 100 years) by at least 300 millimeters (30 centimeters). This distance is called "freeboard."
+The first diagram shows how this may be accomplished in situations in which the house is located between a stopbank -that is, a barrier separating the river or drain from the area in which the house is located- and a hill or otherwise elevated area from which rainwater may run downhill (a phenomenon known as "internal runoff"), potentially creating a pond in the area in which the house stands. In such a situation, the diagram shows that the stopbank should be higher than the 100-year flood level, although it does not show the minimum clearance required. At the same time, the house should be high enough that its floor is at least 300 millimeters above the 100-year ponding level.
+The second diagram shows the way in which the house should be protected from floods in situations where there is no stopbank. In such cases, the house should simply be raised to a height at least 300 millimeters above the 100-year flood level. The second diagram does not show the effects of any internal runoff.
+Both diagrams provide for a common solution, which is to have a minimum freeboard of 300 millimeters between the bottom of the house and the highest probable water level, be it the 100-year flood level or the 100-year ponding level.

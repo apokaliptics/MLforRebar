@@ -1,0 +1,7 @@
+---
+source: kaggle
+---
+
+The given diagram illustrates the process of the storage area, which is made from a special material, namely concrete canvas. The process can be outlined in eight consecutive steps, beginning with the manufacturing of the concrete canvas and culminating with storing of goods.
+Firstly, the concrete canvas is produced as a three-layers composite. It consists of a fibrous top surface, a layer of dry concrete, and a waterproof layer. The features of each layer play different roles in later usage in terms of ductility and stability. The finished product of the concrete canvas is then packaged in boxes and delivered by truck to the construction site, where the boxes are unwrapped, and the canvas inside is taken out.
+In the next stage, the concrete canvas is spread by means of a rope drawn by a vehicle. In order to fix the canvas on the ground, pegs are used and hammered every ten meters along each side of the canvas. After that, on one end of the spread canvas, a door is installed as the entrance of the storage. The covered space between the canvas and the underground is then pumped up and expanded with the aid of a blower machine. Following that, water is sprinkled over the surface of the swollen canvas and reacted with dry concrete with the aim of generating a hard shell for storage. Thus, the form of storage is constructed. After a set period of around 20 to 24 hours, the storage can be put into use.

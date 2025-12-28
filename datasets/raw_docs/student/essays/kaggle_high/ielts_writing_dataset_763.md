@@ -1,0 +1,8 @@
+---
+source: kaggle
+---
+
+Some groups of society are having the idea that outdoor activities are vital for children to improve their mental and physical skills rather than gaming. In my opinion, I agree that crafts and physical interaction between kids are essential for their development in all aspects. Modern technology which contains computer games may have negative effects on their overall development.
+The reason why I believe that such activities are important is that kids are building their personalities during the first years of their life, and this building process requires them to play and interact with their peers in real-life situations which without any doubt can not be done through online games that do not offer this rich experience to them. For example, when a child faces her friends and communicates with them face to face doing some activities, she will learn from them things that will contribute to her growth in many ways.
+In addition to that reason, outdoor activities offer authentic exposure to different situations which helps children to learn how to deal and manage their actions which will increase their awareness, on the other hand, computer games can not provide the exposure that may be needed to achieve such benefits. To illustrate, children who play outside their houses with their mates generally will give a specific and quick response to different situations in contrast with those who spend hours infront of computer screens.
+In conclusion, outdoor activities are valuable for what they give to children, not only for their personalities to be formed and developed, but also for their understanding to multiple real-life situations.

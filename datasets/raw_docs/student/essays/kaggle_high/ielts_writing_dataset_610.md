@@ -1,0 +1,9 @@
+---
+source: kaggle
+---
+
+During the COVID-19 pandemic, countless measures have been implemented to reduce transmission amongst citizens. The use of hand sanitizers has been one of them, but what is it made of? Ethanol is a common disinfecting agent found in cleaning products, which originates from corn. Here's a nine-step manufacturing method of how this alcohol is produced from that supercrop.
+In the first third of production, the maize is harvested, stored and ground up during milling. First, farmers collect ripened ears from fields, and then place them in bins and other containers. These are then crushed into a powder to increase the surface area, hence increasing the potential yield of ethanol created.
+Steps four to six involve boiling, brewing and filtration. The powder produced in the milling process is mixed with water and boiling takes four hours. Once it is done, the mixtue is left to stand for 48 hours, allowing fermentation to occur, and unprocessed ethanol be created. After this two-day step, the mixture is filtered to separate the unpurified ethanol from the solid by-product.
+Lastly, the liquid raw product is distilled, packaged in various containers and shipped to retailers. Filtration is carried out for five hours to increase the purity of the ethanol. Afterwards, the final product is packaged and stored until it is transported to stores, where we can purchase it for our daily use and protection.
+Many important people such as farmers, scientist and transporters assist in the manufacturing process of ethanol and we thank them for creating this essential product.

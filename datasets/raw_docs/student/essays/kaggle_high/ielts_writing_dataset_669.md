@@ -1,0 +1,9 @@
+---
+source: kaggle
+---
+
+In the modern society,it is seen that the buildings in the housing areas vary from one city to the other city where some cities prefer taller buildings and other cities prefer smaller buildings on a wide land.
+This essay illustrates the reason why they are built in this way and compares the advantages and disadvantages of each type of building.
+It is often said that the taller buildings are ideal for houses in metropolitan cities.The main reasons are the cost of land and a very large population in big cities.As a solution for this problem,people in big cities prefer taller buildings where the homes are easily affordable for them.However,this leads to over crowding and lack of adequate ventilation.For instance,in Mumbai,the largest city in India,the cost of land and the population is so high that the majority of the constuction companies build taller buildings in order to solve this problem.
+In contrast,some cities with a lower population and comparatively lower cost of land build shorter buildings on a wide land.This enables cities to prevent over crowding in communities and have a wider open area with greenery providing a lot of ventilation helping people to lead a better life style.For example,in Chandigarh,a union territory in India,the construction of houses are perfectly executed providing enough space between each house as the cost of land and the population is relatively low when compared to cities like Mumbai.
+To summarise,some cities with high cost of land and the high population prefer taller buildings lacking adequate ventilation and leading to overcrowding where as the in the cities with the opposite situation ,the houses are built on a larger piece of land providing adequate space between each house.

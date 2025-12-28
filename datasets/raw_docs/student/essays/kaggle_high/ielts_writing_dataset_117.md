@@ -1,0 +1,8 @@
+---
+source: kaggle
+---
+
+Having insects as food is not a new idea. In some Southeast Asia countries such as Thailand and Columbia, bugs like spiders and grasshoppers are common protein sources for the general public. To solve the food shortage in the growing population around the world, there is a voice to consume insect-based products instead of traditional meats. Meat industries have a negative reputation for being eco-unfriendly. Also, not all the family can afford to have meat. So is insect-based food a solution to the population booming era?
+First of all, let us look into what insects take part in the ecosystem, Insects are at the bottom of the food chain. It means that many animals consume bugs as their main diet. One of the concerns of humans eating insects for food is whether the collection of insects will affect the environment. Over-collecting insects may endanger some species which rely on insects to survive. Farming insects may be an idea to grow insects for food but the impact on the farming environment is still under observation.
+Food safety is another concern of eating insects. There are a few thousand kinds of insects, some of which are known as poison. Although most of the edible insects do not contain poison, identifying which kinds of insects are safe to eat will be an issue.
+Nevertheless, eating insects can be an option. There are some countries that are mature in having insects. Whichever sources of the insects are safe and eco-friendly, insects can be a subsidy of proteins when lacking meat sources. However, there is still a long road for insects to become the main source of food in this state.

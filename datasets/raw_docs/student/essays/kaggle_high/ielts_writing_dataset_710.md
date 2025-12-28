@@ -1,0 +1,6 @@
+---
+source: kaggle
+---
+
+The graphic illustrates the number of houses built per year in the cities of Derby and Nottingham, between 2000 and 2009. In the chart Derby is usually the city that has more houses built per year during this 9 years while Nottingham has the lead just in 3 years.
+During the years 2000 and 2001, Nottingham had more houses built per year than Derby, with an average of 54, while, in the 5 years that follow, 2002, 2003, 2004, 2005 and 2006, Derby had an outstanding performance, keeping for 5 year straight the lead. 2007 was a very important year for nottingham, especially coming from an year, 2006, where the average of house built was close to 0; in fact during 2007 nottingham,for the first time in the chart, went over the 150 house built per year while Derby maintained the same average of the previous years. The years that follow, Derby registered more than 250 houses built in 2008 and more than 300 in 2009, while Nottingham presented an average of less than 10 houses built in 2008, but it reached the 250 in 2009.

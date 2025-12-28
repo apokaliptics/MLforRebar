@@ -1,0 +1,8 @@
+---
+source: kaggle
+---
+
+Most vehicles release a toxic amount of fumes into the atmosphere. This, in turn, has grown into an environmental issue of global concern that governments across the world believe can be mitigated by adding on to the price of fuels. I chiefly disagree with the effectiveness of this method as next to nothing had been altered since the policy enforcement due to convenience issues.
+The number of cars utilizing fuel has not dwindled. Even though many alternatives had been suggested, there was no mass production of transportation units for the use of average salary workers. The middle crust of society does not possess sufficient income to shift to environmentally friendly solutions for the fear of maintenance hardships. For instance, an electrical car would necessitate a spacious charging spot in front of a garage that not many possess. As a consequence, the more convenient and trustworthy solution to buy fuel is resorted to.
+The population of the world as a whole does not stay in one place. As more and more people are born, there is a growing need for transport to be manufactured in a short span of time. Although a part of the population may be able to abandon their cars in exchange for bikes or buses, a significant portion of the growing society still opts for refueling cars in gas stations to get to places faster.
+In conclusion, while the idea of the price policy introduction bore few fruits, they had not been enough to make a contribution to solving the carbon footprint. Ironically, people would rather overspend for their comfort than think about nature.

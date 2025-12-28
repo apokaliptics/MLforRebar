@@ -1,0 +1,8 @@
+---
+source: kaggle
+---
+
+Some people claim that nothing about the past is valuable for life in the present day. From my perspective, it is not true. I disagree with this statement because people can, indeed, learn significantly from previous human behaviours and nature patterns, as it often happens in cycles, in other words, it is repeated from time to time, so it proves that one day the knowledge gained might be useful in the future. Additionally, many discoveries and pieces of research, that were made in the past, applies to the present time.
+At first, it has been proved by many geologists that, despite the global warming, the weather follow a cycle pattern. This way, it is possible to predict the future challenges that the humankind will likely face, such as seasons of extremely low or high temperatures. Moreover, the same trend applies to the human behaviours. It is known that some situations will probably be repeated, such as wars and economic crisis, and this is considered part of humans' evolution. Therefore, knowing that many aspects will likely happen, in a similar way, in the future, proves that the knowledge about the past is relevant.
+Besides that, it is valid to state that many discoveries from earlier ages, such as the medicines and the technology advance, are vital for nowadays life. People should not take them for granted, as most of the things that the global population has achieved, once, depended on the previous researches.
+In conclusion, individuals should, indeed, learn from the past. Firstly, because some situations can, similarly, happen again, and secondly, because it is the way to fully understand our recent achievements and our modern life.

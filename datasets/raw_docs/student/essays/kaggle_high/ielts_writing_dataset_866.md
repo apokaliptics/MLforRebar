@@ -1,0 +1,6 @@
+---
+source: kaggle
+---
+
+The bar chart illustrates data related to the expenditure of six commodities(namely photographic film, toys, CDs,perfumes, tennis raquets and personal stereos) in England,France,Italy and Germany.
+It is apparent from the information supplied that the percentages of photographic film,perfumes and tennis raquets in Germany have shown consistency as a trend as the equivalent bars are even at 150.Moreover, it is evident that the expenses for the France products saw considerable fluctuations since photographic film's spending reached 165 and tennis raquets cost 145. With regard to the Italian goods, the range of expenditure was between 150 and approximately 155.Furthermore, the quotas of photographic film in all nations were increased or flat in regard to other variants,in comparison to the personal stereos which were dropped lower than 150(with the exception of Britain's personal steros ) , slipped to Finaly, from a considerable 155 which accounted for the personal stereos in Britain, the cost for purchases soared to 170 for the photographic film in the aforementioned country.

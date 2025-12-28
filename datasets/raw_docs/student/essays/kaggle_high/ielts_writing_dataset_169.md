@@ -1,0 +1,13 @@
+---
+source: kaggle
+---
+
+In reality, translation softwares makes a lot of people's lives easier when communicating with others that don't speak the same language. However, in my opinion, learning a new language might be more advantageous than using this software.
+First of all, the process of learning new languages involves the ability to correspond words in two different dialects, which also requires using a lot of parts of our brain. Therefore, this process improves certain areas of our neurologic system, specifically, the left hemisphere, responsible for communication and speech.
+In fact, multiple studies have shown that people that speak different idioms have a lower risk of neurologic diseases such as Alzheimer's and Dementia since the left side of the brain is more developed than others that might only know one language.
+Furthermore, these types of software are not always accurate. In spite of being correct the majority of the time, there are some situations where the translation is wrong because of different factors.
+One of them is that there's no translation for certain words in other languages, for example, "Saudade" in Portuguese has no correspondence in English.
+Besides that, when using Google Translate one has to pay attention to the translation given in certain languages. In reality, when translating from English to Portuguese, sometimes the programme doesn't consider the fact that in Portuguese adjectives come after the noun while in English they came before.
+Lastly, someone that chooses to use this type of system to communicate with someone, instead of learning that language loses a bigger amount of time than others that already speak that dialect. That is because one has to first record what the person is saying then tell the software their answer and wait for it to be translated to the other. This results in a quite complicated setting that might be aggravated in situations where the translator doesn't understand one of the persons involved in the conversation.
+To illustrate this, when talking to the AI "Siri" on the iPhone or "Alexa" on Google, a lot of the time they don't comprehend what we are saying, which results in people having to repeat themselves several times.
+In conclusion, I believe that learning a new language is easier than using a translation software. In fact, this not only boosts our knowledge but also avoids difficult situations where what people are trying to say is wrongly translated.

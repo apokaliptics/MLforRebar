@@ -1,0 +1,7 @@
+---
+source: kaggle
+---
+
+The table sheds light on the metro systems in six cities, outlining their dates of opening, lengths of route and annual passenger volumes.
+Overall, the earliest opening of underground system took place in London. It is also apparent that London has the longest metro routes. In addition, the number of underground passengers in Tokyo is larger than that in any other cities mentioned in the table.
+As shown in this table, the opening of the subway system in London took place in 1863, which was earlier than that in any other cities outlined in this table. In Paris, Tokyo, Washington DC and Kyoto, the metro systems began to be operationalised in the 20th century. The latest opening of metro system took place in Los Angeles in 2001. As for the lengths of route, the capital of the UK has underground routes of 394 kilometres, which are longer than any other cities, such as Paris (199 kilometres), Tokyo (155 kilometres), Washington DC (126 kilometres), Los Angeles (28 kilometres) and Kyoto (11 kilometres). In terms of the annual passenger quantity, the figure reaches 1927 million in the capital of Japan, which is larger than that in any other cities. The second largest figure of passenger volume was in Paris, reaching 1191 million. The yearly number of passengers reaches less than 1000 million in each of other four cities.

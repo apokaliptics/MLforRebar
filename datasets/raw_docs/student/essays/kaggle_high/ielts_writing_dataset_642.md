@@ -1,0 +1,8 @@
+---
+source: kaggle
+---
+
+The two given pictures compare the layout of a square park between the year 1980 and the present day.
+It is noticeable that several significant modifications were made over the period, which includes the new plan for lawn, access, and border, making the park more attractive for people with different purposes of visiting.
+Looking at the information described above more closely, the brick wall around the park and the fence door as the entry at the bottom of the park in the year 1980 are no longer present nowadays. Instead of the sole entrance available for visitors in the past, there are four accesses located on each side of the square park now, combined through two walking paths with each other, which cross themselves in the middle of the park.
+Talking about the change that occurred to the lawns inside the park, the green area was divided by the pavement into two parts in 1980, while due to the new layout of the walking part inside the park, the green area has been separated into four pieces with respective functions nowadays. The part with a small pond and a couple of sitting banks remains its initial usage for leisure, but its size has been slightly reduced. Furthermore, two new lawn parts have been created. While the one suited in the bottom right-hand corner is available for sports activities like football, the other one lying the opposite of it is applicable for picnics and barbecues with friends and family members.

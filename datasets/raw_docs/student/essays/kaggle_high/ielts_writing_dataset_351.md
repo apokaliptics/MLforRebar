@@ -1,0 +1,8 @@
+---
+source: kaggle
+---
+
+Nowadays, there are many courses available to take, from arts that include theatre and music to scientific topics such as mathemathics, physics, chemistry, biology and medicine. There is an evidence that the amount of students willing to learn science subjects is not sufficient. In this essay I will discuss the causes of the issue and the possible effect on society.
+There are several casues for the fact that students tend to skip science subjects. First, studying science can be hard and exhausting. The complexity of some subjects such as math and physics requires from the student to study many hours at home. Secondly, there are students who do not only find those courses difficult, but also get low marks even after studying long hours. As for chemistry classes, some courses include labratory lessons which may not appeal to some students.
+The importance of people having knowledge in science is great. The society relies on science on a daily basis. For instance, doctors who study medicine, must know mathematics, biology and chemistry well, because biology is relevant to the patient's body. In addition, doctors prescribe medications so they must know chemistry well. Another example is architects whose job is to plan and design buildings. Without a proper knowledge in physics, they could not plan buildings.
+Discussing those facts, studying science can be challenging. However, it is vital for the society that students will study science. Without doctors, nurses, scientists and other professions that rely on science, the health of the society might be effected negatively.

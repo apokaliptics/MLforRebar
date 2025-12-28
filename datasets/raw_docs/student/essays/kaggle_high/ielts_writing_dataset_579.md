@@ -1,0 +1,10 @@
+---
+source: kaggle
+---
+
+The economic value added to a country hosting an international sports event has been said to benefit the community as a whole. However, many would argue that such events are a waste of useful resources, which could otherwise be streamlined to more needed areas. Although I am of the opinion that the advantages outweigh the disadvantages, in this essay I will discuss both viewpoints with the help of relevant examples.
+To support my view, I would like to bring to attention the 2009 Olympics held in China, which brought individuals from all over the world. The funds collected from the event provided a massive boost to the economy of the country, a significant portion of which was utilised for the welfare of underprivileged children in the nation.
+On the other hand, it is imperative to note that a majority of profits gained from these shows go to the upper classes. For example, the IPL tournaments held in India have seemingly benefitted the uber rich participating in the auctions, while simultaneously draining tax-payers of their money.
+However, coming from a community where sports serves as a bonding activity, I would also like to elaborate on the non-economic benefits of these games. The Olympic Games, for instance, garner a mass crowd from various nations bringing a variety of individuals together. They act as a nidus for soothing political tensions and improve diplomatic relations in times of unrest.
+While many may object to the violent nature of some sports such as boxing, and the impact they have on young minds, these activities also serve as a conversation starter and are likely to ignite a spark of interest for sports in many.
+In conclusion to the aforementioned points, I would like to state that while certain aspects of international sporting events must be checked upon, the pros are worth the effort of organising them.

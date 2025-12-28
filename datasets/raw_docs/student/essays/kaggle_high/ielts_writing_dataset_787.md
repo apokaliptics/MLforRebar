@@ -1,0 +1,11 @@
+---
+source: kaggle
+---
+
+Why Classical Music has not garnered the attention and recognition it deserves?.In this article we will cover all factors that have led to this question and will also provide my views on this highly debated topic.
+Classical music which is considered one of the oldest forms of music. It has been a part of history.If we look at the early 1800's or at early 1900's it was always classical music that garnered most attention and had people coming into concert halls to listen to musicians.It was an integral part of music in all countries.But with the evolution of music and introduction of more genres of music like Rock,Pop and Rap we have seen the rise in music which people found more appealing and intresting.
+This has led to classical music being viewed as boring and stagnant, this can be viewed as the primary cause in fall of the popularity of classical music.
+For example, going to a rock and roll concert which gets people involved and also allows them an opportunity to partake in the concert, which as you could understand would appeal more to the youth as compared to a classical concert where people would just view and appreciate with minimum involvement.
+Classical music is also a skilled art that needs to be learned and honed but does not integrate any modern art. For example, Michael Jackson integrated dancing with his singing which widely appealed to the masses and encouraged youth into his concerts. So if you could see a similar integration with classical music concerts it could attract more youth towards classcial music.
+Howerver, with this discussion we cannot forget that as various genres of music have been derived from classical music and youth learning classical music with attending more classical concerts would help them achieve their future music endevors and also give them a good understanding of music.
+In conclusion, we can say that young people should be encouraged to go to classical music concerts as it would help them understand and appreciate music in its true form.However, attracting young towards classical music will need a evolution in classical music concert structure and integrate some components from other forms which would make it blend better with present day outlook.

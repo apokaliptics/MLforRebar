@@ -1,0 +1,8 @@
+---
+source: kaggle
+---
+
+There is debatable issue as to whether boxing, a seemingly bloody sport, should be excluded from the modern society. As far as I am concerned, the attempt to remove boxing from the current age is utterly unjustified.
+Admittedly, boxing is often associated with various disturbing factors, such as foul language, disregard to rivals, violent punches and inelegant appearance as a result of intense physical contacts. However, such gory scenes may frequently take place in underground boxing games which are barely recognised by the professional community of boxing and by the legal system. Unlike underground boxing, professional boxing upholds moral principles and universal values, for examples, respect to opponents, obedience of rules, etc. Also, professional boxers are protected by safety equipment and judges who may stop the game when witnessing any player suffering serious injuries. Therefore, the health hazards involved in boxing games may not be as severe as the public assumes.
+Another reason reinforcing my position is that boxing already enjoys considerable popularity around the world and plays an important part in people's entertainment, as exemplified by the successful ticket sales of most boxing games and high audience rating of TV programmes broadcasting boxing matches. Given such popularity of boxing, the removal of this sport may cause widespread dissatisfaction and complaint.
+To draw a conclusion, the exclusion of boxing is completely groundless and irrational, given the safety protection, sportmanship and popularity as reflected in this sport. I expect in the future, more views could arise to furnish the understanding in this regard.

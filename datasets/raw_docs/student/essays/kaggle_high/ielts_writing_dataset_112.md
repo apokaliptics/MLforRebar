@@ -1,0 +1,8 @@
+---
+source: kaggle
+---
+
+The two tables indicate the international students from universities in Europe to Australia, and from Australian universities to universities in Europe between 2007 and 2009. Overall, An increase in total can be seen from European students to Australia in 2009, while the total number of Australian student remained the same from 2007 to 2009.
+To go into detail, there are two countries the number of students increased from European international students to Australia. Specifically, It is Sweden, and Germany. It was 34,27 in 2007 in Sweden and Germany, whereas it was 42 and 62 in Sweden and Germany in 2009 respectively. Especially in German students, the number doubled. On the other hand, other countries, such as France, the United Kingdom, and the Netherland can be seen a slight reduction from 2007 to 2009. But the total number increased from 189 to 226, in 2007, and 2009.
+When it comes to Australian international students who study in Europe, have not changed the total number of students. It is 152, in 2007 and 2009. On the other hand, the number of students soared in two countries, such as France, and Germany.It was 37, 18 in France, and Germany in 2007 respectively. It increased to 58, 26 in France and Germany. In contrast, there are reduction in three countries, in Sweden, The United Kingdom, and the Netherlands. Especially in the Netherland, the number of Australian students plummeted from 32 to 18 between 2007 and 2009.
+France and Germany in 2009.

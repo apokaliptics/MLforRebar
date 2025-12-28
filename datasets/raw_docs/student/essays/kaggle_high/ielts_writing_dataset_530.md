@@ -1,0 +1,9 @@
+---
+source: kaggle
+---
+
+The bar chart shows what are the tendences of men and women in attending evening courses in an adult education centre during 2009 in a scale of 0 to 40 people, while the pie chart shows the percentages of ages of the participants in these courses.
+Fist of all, the most striking information is that women were largely more present in languages and painting courses than men, and that the vast majority of the participants in the overall courses were 50 years old or over.
+To begin with, it is clearly demonstrated that there were more women than men in all courses, except in sculture. In fact, men attended to language and drama courses were twice as less than women. Women were 40 in language courses and 20 in drama. Men were also slightly less in paiting, around 25 people, compared to women who were 30 at this course. However, in sculpture, men tended to be more present, as they were 10, which is roughly the double of the number of women who were present.
+Secondly, there was a marked tendence for people aged from 50 and over to attend a these courses, as they were slighlty more than two fifth. Just over a quarter of the people were between 40 and 49, while those who were 30-39 were just 16%. Finally, the youngest ones were not very present. In fact, the 20-29 years old group represented just 11%, while the under 20 were barely the half, with 5%.
+To conclude, it can be seen that the vast majority of the people who attended these evening courses were aged from 40 to 50 and over. Moreover, women tended to attend much more at all courses than men except for sculpture.

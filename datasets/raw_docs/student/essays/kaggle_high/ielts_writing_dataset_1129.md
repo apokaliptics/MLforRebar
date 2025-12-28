@@ -1,0 +1,8 @@
+---
+source: kaggle
+---
+
+Nowadays, it is easier to find all kind of drugs in our neighbourhood. Because people in most societies use drugs, the children are clearly in contact with these substances even if they are only ten years. Therefore, this essay will discuss the causes and effects of drug use by young people in modern societies.
+There are two main reasons why a young person decides to use drugs, namely, a dysfunctional family and depression. A dysfunctional family is known to be a family with a lack of communication, and this family isn’t worried about their son. For example, both parents are alcoholics, and they don’t care about their son. The child starts using drugs only because someone else does it. On the other hand, a young people suffering depression can easily become addicted. For example, a teenager is bullied at the school. He doesn’t want to go anymore and feels lonely. In order to change this situation, he finds a refuge in drugs because he feels confident and loved.
+The effects of drug use by young people are multiples. Generally, they can’t be focused. They prefer to stay in an unreal world rather than the real world. For example, a student who dreams of become engineer will have issues to finish their studies.
+In conclusion, the use of drugs by young people is a common problem in all societies that we must deal. This essay explained some causes like dysfunctional family or depression, for instance, and other effects. In my opinion, the information is a crucial element in saving our young generation from drugs. This is not a minor problem and all of us need to be informed, especially the children.

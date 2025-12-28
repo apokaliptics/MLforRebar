@@ -1,0 +1,8 @@
+---
+source: kaggle
+---
+
+For centuries, artworks have been titled  'Work of Art' based on their extraordinary qualities. However, some people argue that nowadays, the standards are decreasing and the labelling of substandard artworks as 'masterpieces' has become ubiquitous. The upcoming essay will discuss why I agree that original paintings are being neglected while usual ones are being praised.
+Firstly, the superficial nature of humans is responsible for this change. These days, people do not see the meaning behind the painting or the message the artist is trying to convey rather they buy those paintings which are popular and contemporary. To illustrate it further, in art auctions it can be seen that when one person bids on one painting, no matter whether it is good or bad, others also start putting their money on it. Thus it is clear that normal art forms are winning prizes due to public attention.
+Secondly, some artists might bribe the organizers of exhibitions to promote their canvas. Indeed, there have been some recorded instances when artists were caught while signing up deals to increase the sales of their work. If a certain artwork receives publicity then it is impossible that it would not have an influence on the public. This type of promotion skews a person's opinion about a certain picture and so are forced to think about purchasing it, leaving behind original ones. Therefore, it is apparent that the diabolical activities of painters are responsible for their works being labelled as masterpieces.
+To conclude, the maintenance of social position and influence of painters are the prime causes for the popularity of ordinary artworks and the negligence of true works. Hence I agree with the given statement.

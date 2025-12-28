@@ -1,0 +1,9 @@
+---
+source: kaggle
+---
+
+There are opposite views as to which stage of life would exert the most influence on a child's life. Some people hold that the pre-school life is the most influential, while others disagree and claim that the teenage life, notably the period of staying at school, would be more important to his/her life. This essay is to evaluate both views and demonstrate my opinion.
+Before entering the school, children usually receive the most influence from their parents and friends. At home, children would spend much time with their parents teaching them a variety of knowledge needed to help an adolescent act properly and get recognised by the society in the future. When staying outside, children would also be influenced by their friends or other peers since children tend to resemble the behaviours of their peers in order to integrate into the social group of adolescents.
+In the school life, a child's personality would be shaped both by classmates who frequently interact with the child and potentially affect the child, and by teachers presenting knowledge in various fields of science and liberal arts so as to help the child obtain a basic understanding to the world.
+As far as I am concerned, it is rather arbitrary to conclude which period of life would be more important than the other, since a child's psychological development is too complex to be understood. After all, the importance of pre-school life or teenage period might vary from one child to another. Children have their respective understandings as to which person deserves their admiration and which period of life teaches them the best lesson.
+To sum up, children would be influenced by different persons in different periods of life. It depends on children's own intention as to which period is more pivotal, and which person should be admired.

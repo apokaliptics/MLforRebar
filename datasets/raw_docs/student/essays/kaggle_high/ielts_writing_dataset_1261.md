@@ -1,0 +1,8 @@
+---
+source: kaggle
+---
+
+It is true that today, people tend to give birth when they are older than their previous generation. This trend has several negative and positive effects on their daily life.
+On the one hand, there are several disadvantages for those who want to have children in their later age. First, moms could suffer from many serious health problems when they give birth late. Those who are older than 35 of age has the higher rate of death because their hormone levels are not suitable for giving birth which lead to medical accidents. Second, boys or girls whose their mother is older than 35 also tend to suffer from many problems. For example, it is easier to have pneumonia for children from those mothers because the preterm birth rate of this group of mothers is higher.
+On the other hand, I am on the side with those who believe that there are more benefits to having children when they are older. Firstly, people could prepare a better foundation for their children. Raising a boy or a girl is a job which needs both much effort, money and time. Therefore, many people decide to work hard and earn much money they can because it could build a more solid infrastructure for their children. Secondly, it is important for children to have both their parents during their process of growing up. The rate of crime in terms of teenagers, who grow up without mother or father, is higher than those who live with parents. Thus, the decisions such as having marriage or giving birth are crucial when the younger tend to decide quickly.
+In conclusion, it is still controversy for this trend because of the positive and negative effects mentioned above.

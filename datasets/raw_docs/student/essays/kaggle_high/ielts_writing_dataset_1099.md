@@ -1,0 +1,9 @@
+---
+source: kaggle
+---
+
+Some people believe that having a population with a mixture of nationalities makes countries more interesting and helps them to develop faster. In my opinion, people from different nationalities have their own points of view, therefore each of them provide different perspectives to make a country more developed.
+People who lives in a country with one nationality generally do not want other people from different countries to migrate their countries. The reason for this kind of thought is about safety of their countries. Moreover, they do not want to employ people who migrated. Therefore, these countries become more and more isolated from other ones. In this globalization area, a country which has just a one way of thinking, do not have oppurtinity to develop and becoma a interest to different nationalities.
+On the other hand countries with multinational populations have mixture of cultures. Each of the people provides a different tradition of their own nationality. These traditions may become a way of entertainment to attract tourists. Due to the tourism being a source of income, it is one of the development sources of a country.
+In addition, nowadays, there are lots of countries who lets knowledagble employees from other nationalities to work in their countries. These high skilled workers can be positioned in the places in need. Their ideas can be valued. If a country support them, they can be the new face of the development.
+In conclusion, a country always needs development. Development can be achieved through innovation and lots of ideas. I believe that having a mixed population with different nationalites is a one way to do it.

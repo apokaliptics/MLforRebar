@@ -1,0 +1,9 @@
+---
+source: kaggle
+---
+
+Corporal punishment used to be a very popular method in education all around the globe. In the last century there is an opposite trend, which leads to bans on any physical punishment. I believe any corporal punishment should be against the law in schools and any other facilities.
+Recent studies show, that violence is neither most effective nor useful method in education. According to the scientists, any type of physical punishment creates a negative psycological pattern. Students focus on fear and put extra effort into learning things by hard. But students don't use this knowledge or keep it after upcomming test or exam.
+Besides, these methods harm students and reduce creativity in the future. Scientists say, that physically abused kids develop psycological disorders in the future life. This leads to an increased suicide rate, higher chance of depression, and lower happiness.
+Most importantly, physical punishment doesn't address the core of the problem. There are several reasons for a low school performance: a low interest in the topic, a bad explanation, or a low quality of life. To increase students performance we have to focus on quality of education first. But there are some good news. Humanity made a huge progress since internet and youtube are much more accessable nowdays.
+In general, there is not a single piece of evidence which support physical punishment. It's a method from the past that should not be used nowdays. Corporal punishment leads to lower performance, psycological disorders, and doesn't solve any real problem. This is why it shouldn't be allowed anywhere in the world.

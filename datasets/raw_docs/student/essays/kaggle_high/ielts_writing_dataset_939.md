@@ -1,0 +1,8 @@
+---
+source: kaggle
+---
+
+Music is the moonlight in the gloomy night of life.It is the universal language of mankind.There are mixed opinions about music on whether it is advantageous or not to individuals and society.This essay will discuss about pros and cons of music being part of our life.
+Some people have a perception that playing or listening to music is not beneficial in any manner. They feel music separates a person from socializing and that it is a form of addiction and distraction.Especially, parents feel that their child's concentration is impacted while multitasking with music and studies.For extroverts its a sort of discomfort or hindrance.Few extroverts feel better to share their feelings and difficulties with others than staying alone and listening to a song. Few recorded instances has suggested that sad music inculcates negative thoughts and aggression while in depression.
+On the other hand, there are people who think that music having a negative effect on individual and society is completely preposterous.They feel that tunes produces a kind of pleasure which human nature cannot do without.Music is a form of expression of feelings rather than being a hindrance.It greatly helps people to overcome their hurdles.Soothing and melodious music gives a refreshing effect.Jazz and Pop music facilitates society to come together and dance.Concerrts helps certain groups to spend time for relaxation from their busy schedule.Not only that, singing or playing instruments is a form of expression of their feelings.
+The essay argued that though music is considered to be a distraction , it is a form of rejuvenation to both society and individuals of all age groups.

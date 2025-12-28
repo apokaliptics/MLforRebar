@@ -1,0 +1,8 @@
+---
+source: kaggle
+---
+
+The table indicates the annual income of secondary/ high school teachers and comparisons in 2009. Overall, it can be seen an increase from starting year and after 15 years in all countries.
+To go into detail, there are two countries, in Australia, and Denmark where teachers' annual income reached the maximum salary within 10 years. Specifically, The annual income started at 28,000, 45,000 in Australia, and Denmark respectively. Afterwards, the salaries reached 48,000, 54,000 within 9 years, and 8 years in Australia and Denmark.
+When it comes to other three countries, Luxembourg, Japan, and Korea, those three countries teachers steadily increased their annual income, however, they kept working after 15 years and reach maximum later. In Japan, and Korea, their annual income gradually increase the longer they worked. For example, the first years' annual income in each country is 34,000, 30,000 in Japan, and Korea respectively. After 15 years, their incomes soared to 65,000 and 48,000. As a result, their maximum income will reach the peak of 37 years, and 34 years in Japan, and Korea. The salary is 86,000, 64,000 in Japan, and Korea.
+Interestingly, in Luxembourg, the annual saralies start at 80,000 and increased to 119,000 after 15 years. In contract, there is not so huge gap between after 15 years annual income and maximum. It is 119,000 and 132,000. Furthermore, the maximum salary tend to reach in 30 years. It is a litte bit earlier than Japan, and Korea.

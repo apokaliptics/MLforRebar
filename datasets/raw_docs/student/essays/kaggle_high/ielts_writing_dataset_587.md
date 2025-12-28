@@ -1,0 +1,8 @@
+---
+source: kaggle
+---
+
+It is argued that using mobile devices is as antisocial as smoking and that in certain areas smoking has been forbidden so mobile devices should be prohibited as well. I strongly disagree with this statement because this would not solve the initial problem and could turn out expensive as well.
+Firstly, banning mobile devices from certain places would be exagerated. This is because smoking actually damages your body, while the use of mobile phones is comparatively harmless. For example, a recent research found out that the risk of lung cancer grows by 0,02% with every cigarette, while high screen time has less damaging side effects like the loss of concentration. Altough the use of mobile phones is sometimes antisocial, I think that we should concentrate on the origins of this problem than simply prohibit it in certain areas.
+Secondly, banning mobile devices would have a regulatory side effect which could be expensive. The government would have to decide on new laws as well as implement them. Furthermore, it would be no easy task for the police to control these rules in an efficient way. As a result, police would struggle with a high workload. Admittely, I have enough faith in our legal system and I am sure that they could manage it but I think that we have more prescious und urgent tasks to concentrate on.
+In conclusion, I strongly disagree with banning mobile devices in certain areas. However, I admit that we use our phones too much which sometimes leads to antisocial behaviour. Nevertheless, prohibiting the phones in certain areas would not solve this problem and could as well be expensive for the government.

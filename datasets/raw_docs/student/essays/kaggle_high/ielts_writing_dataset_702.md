@@ -1,0 +1,7 @@
+---
+source: kaggle
+---
+
+Information is presented by the bar chart which illustrates the figure for houses built each year in Derby and Nottingham over a ten-year period from 2000 to 2009. Overall, it can be seen that there was a clear trend that houses in Derby were built more than that in Nottingham each year over the survey period, except for the year 2000, 2001 and 2007.
+Turning to the first main feature, there were just under 50 houses which were constructed in Derby for the first two years between 2000 and 2001, while the number of houses in Nottingham was an exact 50 and a little more than 50 in 2000 and 2001 respectively. The figure for houses in Derby then increased considerably to approximately 75 in 2002, which exceeded the number of houses in Nottingham, and plateaued at more than 100 until 2006. On the contrary, in 2002 the chart depicts a noticeable decline in the number of houses in Nottingham to less than 25. Nevertheless, the number of houses in Nottingham rebounded and rose to around 75 in 2005 before dropping suddenly to nearly zero in 2006.
+Turning to another main feature, whereas in 2007 the figure for houses in Derby remained unchanged at above 100, the number of houses in Nottingham soared to almost 200, exceeding the number of houses in Derby. The last key feature to point out is that the number of houses in Derby jumped dramatically to nearly 350 by 2009 while the number of houses in Nottingham experienced the third drop to almost zero in 2008 before the number of houses in Nottingham increased dramatically to 250 in 2009.

@@ -1,0 +1,8 @@
+---
+source: kaggle
+---
+
+In the past decades, the rise of urbanization has brought trends of moving into the cities. While some people believe that the availability of resources and welfare in metropolises can outweigh the unhealthy environment, I strongly believe that the fancy infrastructures come in exchange for health sacrifice.
+To begin with, most megacities are overpopulated. With scarce resources and higher demands in every aspect, products and services received in these bustling locations usually come at a higher price, lower quality and longer waiting time. For example, it could take up to weeks or months to queue up for non-urgent medical services while it takes only a few days or even without booking in non-busy areas. Moreover, the nature of crowded areas accelerates the spreading of transmittable diseases during the pandemic.
+Another undeniable health factor for those residing in cities is pollution. Most cities come with traffic issues where there are exceeding amounts of cars which create air pollution. It is proved that, in long term, smog in the air could result in respiratory diseases such as lung cancer. Furthermore, the number of the city's population is equal to the extremely large amount of waste and without an appropriate waste management system, it could lead to several more problems. One of them is pests such as mice and bugs which are the perfect mediums for severe diseases such as rabies.
+All in all, urbanization has tremendous benefits to human society as a whole and is unavoidable in the present context. Thus, governments should focus on addressing these issues to ensure the sustainable progress of cities and the citizens' quality of life.

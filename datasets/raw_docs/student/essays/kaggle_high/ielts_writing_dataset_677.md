@@ -1,0 +1,8 @@
+---
+source: kaggle
+---
+
+In many parts of the world, both men and women are full-time employees, which has led to the trend of shared household chores for both genders. In my opinion, this shift should be encouraged to reduce inequality issues while it also benefits family relationship.
+First, sharing housework is reasonable because it will enhance gender equality, which is a worrying problem in many societies. In the past, it was widely believed that women were solely responsible for household works since women have the distinctive characteristics of care and neatness. This has resulted in many women in many countries, particularly in Asia, under pressure and engendering a sense of resentment regarding overwhelming housework. If such jobs are shared to men, it is highly that such burdens are minimised, thus being treated more fairly.
+Another compelling reason for having both males and females engaging in doing household chores is the reduction in a family dispute. If such duties are mainly done by only men or women, the other tends to feel overwhelmed, which might, in turn, lead to domestic argument and violence. A clear explanation is a higher rate of divorce in America, which is caused by the unnecessary argument made by young adult couples.
+In conclusion, while more men and women seem to work full-time nowadays, it is advisable that they both should take responsibility for doing housework. I agree with this as believe that It is fair and will help minimise arguments among family members, leading to an equality society and a healthy family unit.

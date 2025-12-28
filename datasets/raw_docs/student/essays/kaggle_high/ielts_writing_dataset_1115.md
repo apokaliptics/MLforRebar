@@ -1,0 +1,8 @@
+---
+source: kaggle
+---
+
+Nowadays, due to the development in science and technology, expolring the remote natural places has become available. Exploring is what scientists and tourists are always like and eager to do because, invariably, unknown keeps an attraction of mystery. However, there are pros and cons in travelling to remote natural environment.
+As far as we know, the improvement in science and progress in technology always comes from exploring the unknown destinations. Travelling to a remote natural environment, take the South Pole for example, can conduct many research which cannot be done in common places. These kinds of research is helpful in Biology and in finding the origin of human being. The second biggest advantage is that it can improve the tourism in its local area, and tourism means a better condition for local people. In the past, in some remote places of China without torism, the native people there had a poor sanitory condition and after the arrivals of travellers, people there can earn a living and improve their living conditions.
+However, everything in the world has its donwside. The activities in scientific research and commerce will cause contalmination to the environment in remote places. For instance, the constructions of the scientific stations have occupied the places where many wild animals there used to call home. There is no doubt that such activities will lead to a decrease in the number of these animals which will also influent the local ecosystem.
+To sum up, the travel to remote natural environment will not only help to improve the development of science but also help with the local tourism, but the disadvantage is that these activities will cause damages to the local environment.

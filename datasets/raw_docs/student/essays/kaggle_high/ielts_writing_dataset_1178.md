@@ -1,0 +1,7 @@
+---
+source: kaggle
+---
+
+The graphic gives information about the passenger numbers of an Underground Station in London during the day. In general, the number of passengers increasingly rises and rapidly goes down during the day. Nonetheless, at lunchtime and at nighttime the numbers of passengers are almost stable.
+The number of passengers during the day is subject to dramatic changes. Indeed, after 6 am the number of people taking the underground picks up passing from 100 people to 400. The passengers decrease immediately and in less than an hour there are just half of the passengers (almost 200). A specular situation happens during the afternoon. Indeed, the number of passengers at 4 pm is less than 100. They start to increase notably and in less than two hours (at 5 pm) there are almost 400 people in the station.
+At lunchtime and nighttime, the number of underground passengers is almost stable. During the morning and the afternoon there are significant and radical changes, whereas the hours between 12 pm to 2 pm and between 8 pm to 10 pm are not subject to the same type of change. In particular, during lunchtime, the number of people who take the underground is almost 300 for a period longer than two hours. Similarly, the number of passengers after 8 pm moves around 150.

@@ -1,0 +1,7 @@
+---
+source: kaggle
+---
+
+The table compares the performance of social and economic aspects for Canada, Japan, Peru and Zaire in 1995. In general, Japan and Canada outperformed in four social and economic indicators their counterparts, Peru and Zaire.
+To be precise, regarding the economic indicators, people in Japan earned the highest annual income among the four countries, with US$ 15,760, and Canadian people earned the second most annual income with US$11,100. People in Peru and Zaire earned a lower annual income, almost 98 times less than people in Canada and Japan.
+With regard to the social indicators, people in Canada and Japan showed a longer life expectancy at birth, both of which had a life expectancy of more than 75 years old, whereas the life expectancy in Peru and Zaire was much lower, with only around 50 years old. The adult literacy rate in Canada and Japan saw the same percentage, both at 99%. While 68% of adults in Peru had literacy, the adult literacy rate in Zaire was only 34%, two times less than Peru and almost three times lower than Canada and Japan. With respect to the daily calorie supply, Canada had the highest calorie supply per person, with a number of 3326, while Japan, Peru, and Zaire received a lower calorie supply with aroud 2000 only.

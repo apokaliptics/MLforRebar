@@ -1,0 +1,8 @@
+---
+source: kaggle
+---
+
+It is argued by some individuals that men aren't skilled enough as women in regard to leadership. This essay disagrees with the given statement as leadership skills are not depending on gender but are strongly related to people's personality and work experience.
+The role of a leader should not be stereotyped according to gender, for example, women might be considered more powerful than men because they could normally appear more organised and perfectionist. Indeed, several studies concerning leadership and the role of the leader, have demonstrated that some people have innate attitudes of a leader regardless of their gender. Some of those attitudes are related to active listening, emotional intelligence skills and great communication abilities. Thus, if effectively developed and fostered, those skills can support individuals to achieve higher roles in leadership and management.
+In the same way, the working experience also plays a crucial role in determining and further developing leadership skills. For example, a large number of women are still renouncing to their career paths in order to care for their families. Indeed, most of the women, apply for part-time roles which do not offer the opportunity to achieve a leadership role despite their abilities. For this reason, is difficult to affirm if women are better than men in leadership.
+To conclude, the role of a leader is shaped by innate characteristics and people's personalities regardless of their gender. Moreover, the poor presence of women employed in leadership roles does not create pieces of evidence to support such a point of view.

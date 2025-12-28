@@ -1,0 +1,10 @@
+---
+source: kaggle
+---
+
+I believe students should be divided according to their academic ability this is because specific students require different amounts of support according to their abilities.
+Students that are divided based upon their academic ability are more likely to learn specific parts of their subjects. This will help students not only to learn more but also help them gain more confidence so that they can believe in themselves and so that they are more likely to understand the information required by their subject as they are recieving extra help.
+However if students are divided according to their academic ability they are more likely to feel bored as they may not have their peers to interact with and there's also a high chance that the students may feel isolated as they believe they feel like they do not have the knowledge requirements for their subjects which can demotivate the students and further leading to poor grades.
+If students are educated together they can feel like that their not left out and they can help recieve information from their peers which can help them further understand the subject.
+However if the students are educated together there's a high chance that they are more likely to be distracted by their peers and they would be less focused on their subjects which can lead too poor grades. Morever if students are educated together there's also a chance that specific students may not understand what the teacher is teaching or talking about as diffrerent students have different understandings and academic abilities.
+Overall I believe students should be divided according to their academic abilities this is because students are more likely to understand the information provided by their teachers as they are provided with additional support and students should be more mature enought to undertsand that if they do not meet specific academic requirements they should not be demotivated, they should understand how to handle the situation and show that they can be courageous enough to do even better as the students are provided with additional support.
