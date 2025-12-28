@@ -184,7 +184,22 @@ class ParagraphSplitModel:
         out = Path(output_path)
         out.parent.mkdir(parents=True, exist_ok=True)
         if isinstance(self.model, LogisticRegression):
-            export_data = {'metadata': asdict(self.metadata), 'model': {'type':'logistic_regression','weights':self.model.coef_[0].tolist(),'bias':float(self.model.intercept_[0])}, 'scaler': {'mean':self.scaler.mean_.tolist(),'scale':self.scaler.scale_.tolist()}, 'feature_names':self.feature_names}
+            export_data = {
+                'metadata': asdict(self.metadata),
+                'model': {
+                    'type':'logistic_regression',
+                    'weights':self.model.coef_[0].tolist(),
+                    'bias':float(self.model.intercept_[0])
+                },
+                'scaler': {'mean':self.scaler.mean_.tolist(),'scale':self.scaler.scale_.tolist()},
+                'feature_names':self.feature_names,
+                # recommended runtime post-filter settings
+                'post_filter': {
+                    'enabled': True,
+                    'threshold': 0.7,
+                    'rule': 'prob >= threshold AND (before ends with .!?… OR after starts uppercase)'
+                }
+            }
         else:
             export_data = {'metadata': asdict(self.metadata), 'model': {'type':self.model_type, 'note':'Tree models require ONNX or API deployment'}, 'feature_names': self.feature_names}
         with open(out, 'w', encoding='utf-8') as f: json.dump(export_data, f, indent=2)

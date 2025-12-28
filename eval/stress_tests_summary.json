@@ -1,0 +1,12 @@
+{
+  "messy_essays": {
+    "n": 914,
+    "frac_split": 0.9989059080962801,
+    "avg_prob_split": 0.9981313397007233
+  },
+  "ocr_synth": {
+    "n": 832,
+    "frac_split": 1.0,
+    "avg_prob_split": 0.9968539005135433
+  }
+}

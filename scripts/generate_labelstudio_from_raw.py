@@ -44,12 +44,13 @@ def split_paragraphs(text: str):
     return parts
 
 
-def make_record(before: str, after: str, full: str, label: str):
+def make_record(before: str, after: str, full: str, label: str, source: str):
     return {
         "data": {
             "text_before": before,
             "text_after": after,
-            "full_paragraph": full
+            "full_paragraph": full,
+            "source_file": source
         },
         "annotations": [
             {"result": [{"type": "singlechoice", "value": {"choices": [label]}}]}
@@ -66,7 +67,7 @@ def generate_samples_from_file(path: Path):
         before = paragraphs[i]
         after = paragraphs[i+1]
         full = before + '\n\n' + after
-        records.append((make_record(before, after, full, 'split'), 'split'))
+        records.append((make_record(before, after, full, 'split', source=str(path)), 'split'))
     # no_split = adjacent sentences within same paragraph
     for p in paragraphs:
         sents = sent_tokenize(p)
@@ -75,7 +76,7 @@ def generate_samples_from_file(path: Path):
             after = sents[i+1].strip()
             full = p
             if before and after:
-                records.append((make_record(before, after, full, 'no_split'), 'no_split'))
+                records.append((make_record(before, after, full, 'no_split', source=str(path)), 'no_split'))
     return records
 
 
@@ -97,6 +98,8 @@ def main():
         try:
             recs = generate_samples_from_file(f)
             for rec, label in recs:
+                # attach provenance
+                rec['data']['source_file'] = str(f)
                 all_records[label].append(rec)
         except Exception as e:
             print(f'Error processing {f}: {e}')

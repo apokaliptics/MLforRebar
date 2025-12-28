@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader type="ISBD-ER">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">British Academic Written English Corpus</title>
+            <author>Nesi, Hilary</author>
+            <author>Gardner, Sheena</author>
+            <author>Thompson, Paul</author>
+            <author>Wickens, Paul</author>
+            <funder>Economic and Social Research Council (ESRC)</funder>
+         </titleStmt>
+         <extent>
+            <seg type="designation">CollectionText</seg>
+            <seg type="size">206 files: ca. 61.9 MB</seg>
+         </extent>
+         <publicationStmt>
+            <authority>deposited by <name type="person">Spencer-Oatley, Helen</name>
+               <name type="institution">University of Warwick</name>
+               <name type="place">Warwick</name>
+               <address>[Depositor details removed]</address>
+               <date>2008-10-01</date>
+            </authority>
+            <authority>deposited by <name type="person">Thompson, Paul</name>
+               <name type="institution">University of Reading</name>
+               <name type="place">Reading</name>
+               <address>[Depositor details removed]</address>
+            </authority>
+            <distributor>
+               <orgName type="OTA">Oxford Text Archive</orgName>
+               <placeName>Oxford</placeName>
+               <address>
+                  <orgName type="OTA">Oxford Text Archive</orgName>
+                  <orgName type="Bodleian">Bodleian Libraries</orgName>
+                  <addrLine>Broad St</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX1 3BG</addrLine>
+               </address>
+               <email>ota@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="OTA">2539</idno>
+            <idno type="ota">2539</idno>
+	           <idno type="PURL">http://purl.ox.ac.uk/ota/2539</idno>
+            <availability n="OTA-new" status="free" rend="visible">
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+          Distributed by the University of Oxford under a Creative Commons
+          Attribution-NonCommercial-ShareAlike 3.0 Unported License. </licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="summary">The BAWE corpus contains 2761 pieces of proficient assessed student
+          writing, ranging in length from about 500 words to about 5000 words. Holdings are fairly
+          evenly distributed across four broad disciplinary areas (Arts and Humanities, Social
+          Sciences, Life Sciences and Physical Sciences) adn across four levels of study
+          (undergraduate and taught masters level). Thirty-five disciplines are represented. The
+          assignments have been annotated using a system devised in accordance with the TEI
+          guidelines. There is a dtd file which must be kept in the same folder as the corpus files,
+          named tei_bawe.dtd and the holdings are described in an Excel spreadsheet 'BAWE.xls'. The
+          transcription and mark-up conventions are described in the BAWE manual document, which is
+          in PDF format. </note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl> The original assignments are held anonymised as PDF documents by the project team.</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>The British Academic Written English (BAWE) corpus was created through a collaboration
+          between the Univeristies of Warwick, Reading and Oxford Brookes as part of the project 'An
+          investigation of genres of assessed writing in British Higher Education' funded by the
+          Economic and Social Resaerch Council (ESRC). The aims of the research were to identify
+          genres of assessed writing in UK Higher Education and to investigate textual variation
+          across disciplines and year of study in the context of academic conventions and tutor
+          expectations of student writing. From the research, a database was created for use by
+          researchers who are investigating the nature of academic writing. </p>
+            <p>Student assignments were collected from the student writers as Word documents,
+          anonymised and converted to PDF format. They were marked up following the Text Encoding
+          Initiative (TEI) guidelines. The mark-up conventions are described in the corpus
+          manual.</p>
+            <p>The resource was created between 2004 and 2007.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Encoding format: TEI XML</p>
+         </editorialDecl>
+         <refsDecl>
+            <p/>
+         </refsDecl>
+         <classDecl>
+            <taxonomy xml:id="OTASH">
+               <bibl>University of Oxford Text Archive Subject Headings</bibl>
+            </taxonomy>
+            <taxonomy xml:id="LCSH">
+               <bibl>Library of Congress Subject Headings</bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+	           <date>2004</date>
+         </creation>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="#OTASH">
+               <term type="genre">Linguistic corpora</term>
+            </keywords>
+            <keywords scheme="#OTASH">
+               <term type="resource_type">Corpus</term>
+            </keywords>
+            <keywords scheme="#LCSH">
+               <term type="genre">Linguistics</term>
+            </keywords>
+            <keywords scheme="#LCSH">
+               <term type="genre">Linguistics analysis (Linguistics)</term>
+            </keywords>
+            <keywords scheme="#LCSH">
+               <term type="genre"/>
+            </keywords>
+            <keywords scheme="#LCSH">
+               <term type="genre"/>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords scheme="http://www.ota.ox.ac.uk/processing">
+               <term type="class">corpus</term>
+               <term type="license">Free for non-commercial use</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10-01</date>
+            <label>cataloguer</label>
+            <name>Wynne, Martin</name>TEIXML
+        header composed </change>
+         <change>
+            <date>2009-09-03</date>
+            <label>cataloguer</label>
+            <name>Wynne, Martin</name>Size of file to be downloaded changed to 61.9 Mb </change>
+         <change>
+            <date>2015-10-13</date>
+            <label>cataloguer</label>
+            <name>Wynne, Martin</name>Added link to additional corpus version in download package (CORPUS_ByDisc)</change>
+         <change>
+            <date>2015-04-07</date>
+            <label>cataloguer</label>
+            <name>Wynne, Martin</name>Made available under CC licence</change>
+      </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="OTA-filemap" rend="visible" n="unrestricted">
+            <ab type="dir">
+               <seg type="part">1</seg>
+               <ptr type="resourcePart" target="download"/>
+            </ab>
+         </div>
+      </body>
+  </text>
+</TEI>

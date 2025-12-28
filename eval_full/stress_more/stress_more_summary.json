@@ -1,0 +1,27 @@
+{
+  "arxiv_sample": {
+    "n": 596,
+    "frac_split": 0.9983221476510067,
+    "avg_prob_split": 0.9988211817801556
+  },
+  "edgar_md_test": {
+    "n": 85,
+    "frac_split": 0.8823529411764706,
+    "avg_prob_split": 0.8874233354692688
+  },
+  "wiki_full": {
+    "n": 2875,
+    "frac_split": 0.8236521739130435,
+    "avg_prob_split": 0.8483431393338113
+  },
+  "kaggle_high": {
+    "n": 300,
+    "frac_split": 1.0,
+    "avg_prob_split": 1.0
+  },
+  "lowercase_kaggle": {
+    "n": 200,
+    "frac_split": 1.0,
+    "avg_prob_split": 1.0
+  }
+}

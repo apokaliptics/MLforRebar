@@ -1,0 +1,22 @@
+{
+  "messy_top_high": {
+    "n": 200,
+    "artifact_count": 0,
+    "artifact_frac": 0.0
+  },
+  "messy_top_low": {
+    "n": 200,
+    "artifact_count": 0,
+    "artifact_frac": 0.0
+  },
+  "ocr_top_high": {
+    "n": 200,
+    "artifact_count": 8,
+    "artifact_frac": 0.04
+  },
+  "ocr_top_low": {
+    "n": 200,
+    "artifact_count": 1,
+    "artifact_frac": 0.005
+  }
+}
